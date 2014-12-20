@@ -4,5 +4,9 @@ clean:
 	rm -f VisualRhetoric.*
 
 epub:
-	pandoc -f markdown -t epub -o VisualRhetoric.epub content/*.md
+	pandoc -f markdown -t epub  \
+		--toc \
+		-o VisualRhetoric.epub \
+		content/000-meta.yaml \
+		content/*.md
 

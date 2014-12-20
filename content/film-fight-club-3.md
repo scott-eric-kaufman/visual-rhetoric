@@ -1,4 +1,4 @@
-## Fight Club - Follow that thought!
+## Fight Club: Follow that thought!
 
 (*Yet another one of [those posts](http://acephalous.typepad.com/acephalous/2011/02/a-visual-rhetoric-compendium.html).*)
 

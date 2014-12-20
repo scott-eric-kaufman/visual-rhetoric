@@ -1,4 +1,4 @@
-## Lesson Planning 101: How to teach film responsibly in a composition class (The Dark Knight)
+## The Dark Knight: Lesson Planning 101: How to teach film responsibly in a composition class
 
 Lest you think I'm publishing a long introduction-to-film-studies-type scene analysis for no reason, I had a few English people ask me how I taught film after [I posted my syllabus](http://www.thevalve.org/go/valve/article/my/) last quarter.  So I thought as long as I'm doing it anyway, I might could help a few folk out.  I'm not an expert in film theory, so if you're looking for something along those lines, I suggest you head over to [yonder blog](http://chutry.wordherders.net/wp/) and consult its illustrious roll.  But if you want a workmanlike approach to teaching basic film vocabulary in a composition class, you could do worse.  (Albeit not much.)
 

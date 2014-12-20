@@ -1,4 +1,4 @@
-## Enid and Rebecca aren't winning Ghost World
+## Ghost World: Enid and Rebecca aren't winning Ghost World
 
 Given that I already related my attempt to make [the final day of my "Slow Horror" course memorable](http://www.lawyersgunsmoneyblog.com/2011/03/how-to-ruin-thirty-days-in-a-night-by-violating-the-dayenu-principle), it only makes sense to do the same for the "[Confessional Narratives](http://acephalous.typepad.com/acephalous/2011/01/confessional-narratives-syllabus.html)"  The final works we studied were the [print](http://www.amazon.com/exec/obidos/ASIN/1560974273/diesekoschmar-20) and [film](http://www.amazon.com/exec/obidos/ASIN/B00005T30L/diesekoschmar-20) versions of Daniel Clowes' *Ghost World*, both of which [I hate with a pre-critical vicerality](http://acephalous.typepad.com/acephalous/2010/05/daniel-clowes-is-not-per-his-insistence-one-of-those-comic-book-readers.html) that—to pat myself on the back for being responsible—doesn't prevent me from acknowledging their importance and teaching them anyway.  That said, I find the book far more unlikeable than the film.  Consider the scene in which Enid and Rebecca first meet the waiter they dub "Weird Al" in the novel:
 
@@ -32,7 +32,7 @@ You know it's a point-of-view shot because part of the booth is evident, but sig
 
 It's Rebecca who gets what had been Enid's line in the book: "Check out that waiter's awesome 'Fifties' hair-do."  In a work as predicated on the dynamic between two characters as both the book and film of *Ghost World* are, switching who initiates a particular conversation is bound to have significant consequences, and it does: Rebecca becomes more disagreeable.  But the obverse is also true: Enid becomes more likeable, which is significant because very few people would be able to sympathize with her if she behaved in the film as she does in the book. \*  Given that the majority of the film is focalized through Enid's perspective, creating and sustaining a sympathetic identification with her is critical to the film's aesthetic and financial success.  Zwigof's staging of the remainder of the scene bears my point out.  When Allen walks up, he's not framed by the young woman, but occupies the entire frame of a medium close-up:
 
-![Figure 07](images/film/ghost-world/07.jpg)					
+![Figure 07](images/film/ghost-world/07.jpg)
 
 The strong [frontality](http://classes.yale.edu/film-analysis/htmfiles/mise-en-scene.htm#54569) here—as well as the fact that he directly addresses the camera—would seem to indicate that Zwigof wants to create a bound between Allen and the audience.  Not including Enid and Rebecca in shot creates a distance between the three that continues when the camera reverses back to the booth:
 

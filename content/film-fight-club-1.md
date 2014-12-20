@@ -1,4 +1,4 @@
-## Fight Club - I will make you love me.
+## Fight Club: I will make you love me.
 
 The first fifteen minutes of *Fight Club* strongly suggest to its audience that they're about to watch a much better film than the one they're actually watching—the critique of material culture has yet to embrace to the juvenile punk resistence of the novel and the depiction of insomnia is still pointed enough to be trenchant—so when I decided to teach it in my "[Confessional Narratives](http://acephalous.typepad.com/acephalous/2010/07/fall-comics-courses-american-manga-and-coming-of-age.html)" course, focusing almost entirely on the opening sequences was essentially a given.  The problem is that David Fincher's direction is as busy as it is effective, if only because representing a state of fevered distraction tends to look a bit frenetic.  (By my count, there are 659 cuts in the portion of the film I'm going to focus on, which means that any close reading of it will either be abridged or incomplete, depending on how trustworthy you think me.)  I'll attempt to discuss the pace of the editing shortly, but for now I want to discuss why we even care.
 

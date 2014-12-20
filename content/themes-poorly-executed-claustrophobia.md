@@ -1,4 +1,4 @@
-## Claustrophobia is a cumulative effect.
+## Poorly Executed Claustrophobia: Claustrophobia is a cumulative effect.
 
 (*Yet another one of [those posts](http://acephalous.typepad.com/acephalous/2011/02/a-visual-rhetoric-compendium.html).*)
 

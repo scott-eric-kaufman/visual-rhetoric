@@ -1,4 +1,4 @@
-## Batman as a Monster in a Classic Horror Film (Batman Begins)
+## Batman Begins: Batman as a Monster in a Classic Horror Film
 
 (*Someone sent me an email asking if I thought Nolan had shot Batman like a monster in a horror film in [the fundraiser scene](http://acephalous.typepad.com/acephalous/2009/02/little-bit-more-on-teaching-the-dark-knight.html).  I replied that I had not.  **But **when I taught **Batman Begins **last quarter I taught it as a horror film.  What follows are lightly-redacted notes for that class.  It may read a little staccato.*)
 

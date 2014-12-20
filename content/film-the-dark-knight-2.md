@@ -1,4 +1,4 @@
-## Little bit more on teaching The Dark Knight
+## The Dark Knight: Little bit more on teaching The Dark Knight
 
 What's the point of cataloging film and comic conventions in a composition course?  Students should leave my class knowing that the mechanics of a film or comic reveal the intentions of the mechanic.  Am I doing an end-around theoretical objections to authorial intent?  I certainly am—because I want to instill in my roomful of future rhetors that they need to pay attention to the effect their prose will have on their audience.  I want to slow down the process whereby they make claims, and the best way to do that is to explain the joke.  Consider the fundraiser scene in *The Dark Knight*.  I start shortly before the Joker puts the knife to Dawes' throat.
 

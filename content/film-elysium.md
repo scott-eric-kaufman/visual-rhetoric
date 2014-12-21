@@ -1,4 +1,4 @@
-## The two distinct styles of Elysium’s camera work create two realities
+## Elysium: The two distinct styles of Elysium’s camera work create two realities
 
  * Originally located at http://www.avclub.com/article/the-two-distinct-styles-of-elysiums-camera-work-cr-200921
 

@@ -91,7 +91,7 @@ jsdom.env({
 			console.log('SLUG : ' + convertToFileName(elem.split('www.ginandtacos.com/')[1]));
 		});
 		$('meta[property="og:url"]').attr('content', function(idx, elem) {
-			console.log(elem);
+			console.log(' * Originally located at ' + elem);
 		});
 		$('div.entry-content').each(function(idx, elem) {
 			//console.log('IMAGES:');

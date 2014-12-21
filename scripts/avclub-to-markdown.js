@@ -47,12 +47,13 @@ var sanitizeReplacements = {
 	'<a href="([^"]+)".*><img.*src="([^"]+)"></a>' : '\n\n![$1][$1]\n\n',
 	'<div[^d]+dava-image-id="([^"]+)"> </div>' : '\n\n![$1][$1]\n\n',
 	'<div data-type="image" contenteditable="false" class="onion-image image inline size-big crop-original" data-image-id="([0-9]+)" data-size="big" data-crop="original"> <div>' : '\n\n![$1](images/film//$1.jpg)\n\n',
+	'<div data-type="image" class="[a-z\-\ 0-9]+" data-image-id="([0-9]+)" data-size="big" data-crop="original">': '\n\n![$1](images/film//$1.jpg)\n\n',
 	'<p.*>' : '\n',
 	'<span.*>' : '',
 	'</span>' : '',
 	'<div.*>' : '',
 	'</div>' : '',
-	'\n\n\n' : '\n'
+	'\n\n\n' : '\n\n'
 };
 
 // Extract all images
@@ -98,6 +99,7 @@ jsdom.env({
 		//});
 		$('meta[property="og:title"]').attr('content', function(idx, elem) {
 			console.log('## ' + elem);
+			console.log('');
 		});
 		$('meta[property="og:url"]').attr('content', function(idx, elem) {
 			console.log(' * Originally located at ' + elem);

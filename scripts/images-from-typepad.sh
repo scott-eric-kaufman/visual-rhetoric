@@ -8,6 +8,11 @@ if [ $# -ne 2 ]; then
 	exit 1
 fi
 
+if [ ! -d ./content ]; then
+	echo "MUST BE RUN FROM ROOT OF REPOSITORY"
+	exit 1
+fi
+
 B=images/${SECTION}/${SLUG}
 
 mkdir -p $B

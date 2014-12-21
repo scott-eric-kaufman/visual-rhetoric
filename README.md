@@ -10,6 +10,8 @@ On Ubuntu:
 sudo apt-get -y install make pandoc
 ```
 
+[atom](http://atom.io) with the Markdown plugin is highly recommended for editing.
+
 ## Building
 
 Uses pandoc to build.

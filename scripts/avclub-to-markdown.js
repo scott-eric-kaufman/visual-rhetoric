@@ -93,14 +93,14 @@ jsdom.env({
 		var $ = window.$;
 
 		// Get, sanitize, and print the actual entry
-		$('h1.heading').attr('content', function(idx, elem) {
+		//$('link[rel=canonical]').attr('href', function(idx, elem) {
+		//	console.log('SLUG : ' + convertToFileName(elem.split('www.ginandtacos.com/')[1]));
+		//});
+		$('meta[property="og:title"]').attr('content', function(idx, elem) {
 			console.log('## ' + elem);
 		});
-		$('link[rel=canonical]').attr('href', function(idx, elem) {
-			console.log('SLUG : ' + convertToFileName(elem.split('www.ginandtacos.com/')[1]));
-		});
 		$('meta[property="og:url"]').attr('content', function(idx, elem) {
-			console.log('URL : ' + elem);
+			console.log(' * Originally located at ' + elem);
 		});
 		$('section.article-text').each(function(idx, elem) {
 			//console.log('IMAGES:');

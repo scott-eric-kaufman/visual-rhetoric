@@ -11,6 +11,6 @@ if [ $# -ne 2 ]; then
 fi
 
 wget "$URL" -O "$SLUG.html"
-"$HERE/avclub-to-markdown.js" --file $SLUG.html > "$HERE/../content/$SLUG.md"
+"$HERE/typepad-to-markdown.js" --file $SLUG.html > "$HERE/../content/$SLUG.md"
 rm -f "$SLUG.html"
 

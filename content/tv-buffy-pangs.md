@@ -1,4 +1,4 @@
-## Pop-culture holiday dinners suck for everybody, especially Buffy
+## Buffy the Vampire Slayer - "Pangs": Pop-culture holiday dinners suck for everybody, especially Buffy
 
  * Originally located at http://www.avclub.com/article/pop-culture-holiday-dinners-suck-everybody-especia-211820
 

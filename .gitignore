@@ -1,3 +1,4 @@
 *.epub
 *.pdf
 *.html
+scripts/node_modules

@@ -44,7 +44,7 @@ Notice how quiet Moore and Gibbons’ panels are. By shifting the narration from
 
 ![Figure 13](images/film/the-dark-knight-returns/13.jpg)
 
-He says nothing, because he’s investigating. He’s thinking* his own thoughts* about what he sees. If he had a Watson or a Wilson or a companion he’d be vigorously shushing them at this point because he needs to think. In the film?
+He says nothing, because he’s investigating. He’s thinking *his own thoughts* about what he sees. If he had a Watson or a Wilson or a companion he’d be vigorously shushing them at this point because he needs to think. In the film?
 
 ![Figure 14](images/film/the-dark-knight-returns/14.png)
 

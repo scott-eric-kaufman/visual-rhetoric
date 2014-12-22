@@ -1,6 +1,6 @@
 ## Her: Spike Jonze uses close-ups to teach us about him in Her
 
- * Originally located at http://www.avclub.com/article/spike-jonze-uses-close-ups-to-teach-us-about-him-i-201270
+ * Originally published at http://www.avclub.com/article/spike-jonze-uses-close-ups-to-teach-us-about-him-i-201270
 
 Spike Jonze’s *Her* is a conventional love story with an unconventional constraint—one of the lovers is an inhuman, disembodied consciousness that interacts with the other via an earbud. Typically, romances rely on a small stable of predictable-but-effective techniques that convince the audience it’s witnessing the first, chemical blush of fresh love.
 

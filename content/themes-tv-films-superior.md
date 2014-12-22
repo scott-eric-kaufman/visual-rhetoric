@@ -1,6 +1,6 @@
 ## Is film superior to television or vice versa? In a word—no.
 
- * Originally located at http://www.avclub.com/article/film-superior-television-or-vice-versa-wordno-209272
+ * Originally published at http://www.avclub.com/article/film-superior-television-or-vice-versa-wordno-209272
 
 A number of you have emailed asking why, if this is “Internet Film School,” I spend so much time talking about television. The historical difference between television and film production has been a matter of money and scale—film sets were more expensive and elaborate, and the quality of the image captured on film stock was higher—as well as talent, as films tended to be made by known directors and feature bankable movie stars.
 

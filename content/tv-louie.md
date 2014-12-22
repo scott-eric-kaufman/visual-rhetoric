@@ -1,6 +1,6 @@
 ## Louie: Louie’s dreamlike reality
 
- * Originally located at http://www.avclub.com/article/louies-dreamlike-reality-204910
+ * Originally published at http://www.avclub.com/article/louies-dreamlike-reality-204910
 
 In [his recap of the *Louie* episode “So Did The Fat Lady,”](/tvclub/louie-so-did-fat-ladyelevator-part-1-204564) Erik Adams wrote that “the prevailing debate about *Louie* in my house revolves around how much of season four is taking place inside Louie’s head.” Last season featured a job search orchestrated by David Lynch, after all, and the second episode of this season witnessed Louie bombing in front of what appeared to be an entrance to [*Twin Peaks*’ Black Lodge](http://twinpeaks.wikia.com/wiki/Black_and_White_Lodge), as if he were still somehow auditioning for a guest spot in a sitcom written by someone who only half-remembers how humans behave.
 

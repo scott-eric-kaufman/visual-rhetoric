@@ -1,6 +1,6 @@
 ## Breaking Bad: "Say My Name," or fine, maybe don't even acknowledge I exist.
 
- * Originally located at http://acephalous.typepad.com/acephalous/2012/08/breaking-bad-say-my-name.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2012/08/breaking-bad-say-my-name.html
 
 One of the more gratifying things about studying film and television is the occasional payoff. You consider [a scene in obsessive detail](http://www.lawyersgunsmoneyblog.com/2012/08/realism-and-bad-manners-in-breaking-bad) and it turns out that scene is just as important as you thought it was. This isn't a credit to you, obviously, so much as the director. (Though it is a validation that you're not imparting significance to irrelevant details.) So watching the latest episode of *Breaking Bad*, "Say My Name," was particularly gratifying for yours truly because it indicated that I didn't waste a day last week breaking down that scene at the dinner table in "Buyout." It had a punchline. Recall the establishing shot from that episode:
 

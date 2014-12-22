@@ -1,6 +1,6 @@
 ## Superman: Heroic Abeyance (On Donner's Superman) - Acephalous
 
- * Originally located at http://acephalous.typepad.com/acephalous/2011/09/richard-donner-knew-that-superman-needed-a-powerful-entrance-in-superman-1978-but-he-also-knew-that-the-one-element-that-i.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2011/09/richard-donner-knew-that-superman-needed-a-powerful-entrance-in-superman-1978-but-he-also-knew-that-the-one-element-that-i.html
 
 Richard Donner knew that Superman needed a powerful entrance in *Superman*(1978), but he also knew that the one element that it would necessarily lack was surprise.  The audience knows who Clark Kent is and knows that Lois Lane won't actually plummet to her death, and Donner knows that the audience knows that.  Because he can't rely on the narrative to carry the weight of the scene, he must resort to using spectacle to carry the weight of the narrative.  The scene begins innocently enough, with an extreme long shot (in deep focus) of Lois Lane approaching a helicopter parked on a skyscraper:
 

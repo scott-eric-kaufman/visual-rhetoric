@@ -1,6 +1,6 @@
 ## Mad Men - "The Grown Ups": A first stab at the visual rhetoric of Mad Men
 
- * Originally located at http://acephalous.typepad.com/acephalous/2010/01/mand-men-and-visual-rhetoric.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2010/01/mand-men-and-visual-rhetoric.html
 
 Does it strike you as odd that someone writing a book on visual rhetoric has [produced two](http://acephalous.typepad.com/acephalous/2010/01/don-draper-as-an-unraptured-emma-bovary.html) [long posts](http://acephalous.typepad.com/acephalous/2010/01/don-draper-is-of-course-never-himself.html) about a television show noted for the sophistication of its formal and compositional elements without addressing them?
 

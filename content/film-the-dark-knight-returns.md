@@ -1,5 +1,7 @@
 ## The Dark Knight Returns: The Dark Knight Returns and The Zack Snyder School of Literal Filmmaking
 
+ * Originally published at http://acephalous.typepad.com/acephalous/2013/06/the-dark-knight-returns-and-the-zak-snyder-school-of-literal-filmmaking.html
+
 Not wanting to spend the entirety of my life figuring out how to put
 the entirety of my life into boxes and move it across the country, I
 decided to watch the animated adaptation of Frank Miller’s *[The Dark Knight Returns](http://www.amazon.com/exec/obidos/ASIN/1563893428/diesekoschmar-20)*. Directed by Jay Olivia and released in two parts in [2012](http://www.amazon.com/exec/obidos/ASIN/B008RV5K4U/diesekoschmar-20) and [2013](http://www.amazon.com/exec/obidos/ASIN/B00A2LFXVI/diesekoschmar-20), it belongs to [the Zack Snyder School of Literal Filmmaking](http://acephalous.typepad.com/acephalous/2009/03/watching-watchmen-how-unfilmable-novels-become-unwatchable-films.html), in which the idea is to replicate particularly stirring comic panels on the big screen by unwittingly mangling the elements that make them stirring.

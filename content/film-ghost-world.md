@@ -1,5 +1,7 @@
 ## Ghost World: Enid and Rebecca aren't winning Ghost World
 
+ * Originally published at  http://acephalous.typepad.com/acephalous/2011/03/ghost-world-daniel-clowes-terry-zwigof-enid-rebecca.html
+
 Given that I already related my attempt to make [the final day of my "Slow Horror" course memorable](http://www.lawyersgunsmoneyblog.com/2011/03/how-to-ruin-thirty-days-in-a-night-by-violating-the-dayenu-principle), it only makes sense to do the same for the "[Confessional Narratives](http://acephalous.typepad.com/acephalous/2011/01/confessional-narratives-syllabus.html)"  The final works we studied were the [print](http://www.amazon.com/exec/obidos/ASIN/1560974273/diesekoschmar-20) and [film](http://www.amazon.com/exec/obidos/ASIN/B00005T30L/diesekoschmar-20) versions of Daniel Clowes' *Ghost World*, both of which [I hate with a pre-critical vicerality](http://acephalous.typepad.com/acephalous/2010/05/daniel-clowes-is-not-per-his-insistence-one-of-those-comic-book-readers.html) that—to pat myself on the back for being responsible—doesn't prevent me from acknowledging their importance and teaching them anyway.  That said, I find the book far more unlikeable than the film.  Consider the scene in which Enid and Rebecca first meet the waiter they dub "Weird Al" in the novel:
 
 ![Figure 01](images/film/ghost-world/01.jpg)\
@@ -40,7 +42,7 @@ The strong [frontality](http://classes.yale.edu/film-analysis/htmfiles/mise-en-s
 
 When Enid greets him as "Al" and Rebecca asks whether they can call him "Weird Al," the audience can no longer see his face.  That is, instead of the triangle in the comic that make it clear that they are insulting him to his face, in the film their insults land, such as it were, on an aproned ass.  When the camera cuts back Allen, it returns to the frontal medium close-up:
 
-![Figure 09](images/film/ghost-world/09.jpg)\ 
+![Figure 09](images/film/ghost-world/09.jpg)\
 
 Allen is being shot as a sympathetic—albeit emotionally unresponsive—character again, and Enid and Rebecca are not as formally connected to their insults as they were in when all three occupied the same panel and the pair were literally connected to their words by their speech bubbles.  In short, staging this as a series of reverse shots creates a disconnect between the pair and the object of their insults, which allows all three to remain more sympathetic.  The kicker?
 Zwigof ditches the "You loser!" line entirely. \*\*

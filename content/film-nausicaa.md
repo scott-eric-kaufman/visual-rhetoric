@@ -1,6 +1,6 @@
 ## Nausicaä: Lesson Planning: Teaching basic film theory through Hayao Miyazaki's Nausicaä of the Valley of the Wind
 
- * Originally located at http://acephalous.typepad.com/acephalous/2010/10/hayao-miyazaki-nausicaa-valley-of-the-wind-visual-rhetoric-film-theory.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2010/10/hayao-miyazaki-nausicaa-valley-of-the-wind-visual-rhetoric-film-theory.html
 
 > *Same as I did with [Batman Begins](http://acephalous.typepad.com/acephalous/2009/02/batman-begins-works-because-christopher-nolan-decided-to-spend-the-first-hour-and-twenty-minutes-denying-the-audience-what-it.html) and [The Dark](http://acephalous.typepad.com/acephalous/2009/01/dark-knight-scene-analysis.html) [Knight](http://acephalous.typepad.com/acephalous/2009/02/little-bit-more-on-teaching-the-dark-knight.html) (and continue to do to [Mad Men](http://acephalous.typepad.com/acephalous/mad-men/)) only this time about Hayao Miyazaki's **Nausicaä of the Valley of the Wind**.  The [standard caveat](http://acephalous.typepad.com/acephalous/2010/08/creating-critical-distance-or-on-teaching-avatar-the-last-airbender.html) applies.
 

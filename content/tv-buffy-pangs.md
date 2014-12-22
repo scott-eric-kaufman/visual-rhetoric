@@ -1,6 +1,6 @@
 ## Buffy the Vampire Slayer - "Pangs": Pop-culture holiday dinners suck for everybody, especially Buffy
 
- * Originally located at http://www.avclub.com/article/pop-culture-holiday-dinners-suck-everybody-especia-211820
+ * Originally published at http://www.avclub.com/article/pop-culture-holiday-dinners-suck-everybody-especia-211820
 
 Thanksgiving is a holiday that allows filmmakers to get back to the medium’s theatrical roots. No elaborate sets are required—just a table and some people who know each other so well they decided to come together once a year rather than interact regularly. It is a chance for film to scale back its visual ambitions and look like a play without stumbling into the stodgy stage direction of an old episode of *Masterpiece Theatre*. Only unlike those film adaptations of dramatic works, there is a natural quality to the limitations placed upon a film that happens on Thanksgiving. Everyone looks like they’re in the same place not because the theater couldn’t afford better sets, but because everyone is trapped in the same confined spaces by strained familial bonds. Because if ever there were a time and a place for families to fall apart, it’s Thanksgiving.
 

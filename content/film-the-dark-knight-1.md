@@ -1,5 +1,7 @@
 ## The Dark Knight: Lesson Planning 101: How to teach film responsibly in a composition class
 
+ * Originally published at http://acephalous.typepad.com/acephalous/2009/01/dark-knight-scene-analysis.html
+
 Lest you think I'm publishing a long introduction-to-film-studies-type scene analysis for no reason, I had a few English people ask me how I taught film after [I posted my syllabus](http://www.thevalve.org/go/valve/article/my/) last quarter.  So I thought as long as I'm doing it anyway, I might could help a few folk out.  I'm not an expert in film theory, so if you're looking for something along those lines, I suggest you head over to [yonder blog](http://chutry.wordherders.net/wp/) and consult its illustrious roll.  But if you want a workmanlike approach to teaching basic film vocabulary in a composition class, you could do worse.  (Albeit not much.)
 
 Because I'm one of those cultural studies loons who believe that popular means culturally significant, the film I'm teaching is *The Dark Knight*.  The scene I've tasked my students to analyze begins 1 hour and 24 minutes into the film.  My lesson plan begins after the break:
@@ -84,7 +86,7 @@ That's three separate reverses back to Batman and his head has tilted all of an 
 
 ![Figure 21](images/film/the-dark-knight-1/21.jpg)\
 
-![Figure 22](images/film/the-dark-knight-1/22.jpg)\ 
+![Figure 22](images/film/the-dark-knight-1/22.jpg)\
 
 The frame cannot contain him; nor, interestingly, does it try to.  Nolan's continues to circle the room, and what began as a tension between its restlessness and Batman's steadiness becomes something different.  The camera becomes complicit with Batman: its restlessness seems choreographed; it seems to register displeasure at the Joker's inability to stop moving and dance the part as the choreographer blocked it out.  
 

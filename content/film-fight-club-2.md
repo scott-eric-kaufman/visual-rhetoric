@@ -1,6 +1,7 @@
 ## Fight Club: On Teaching Fight Club to Students Inclined to Love It
 
-(*This be yet another one of [them posts](http://acephalous.typepad.com/acephalous/2011/02/a-visual-rhetoric-compendium.html).*)
+* Originally published at http://acephalous.typepad.com/acephalous/2012/01/fight-club.html
+
 *[Fight Club](http://www.amazon.com/exec/obidos/ASIN/B001992NUQ/diesekoschmar-20)*, like its latter-day counterpart *[Inception](http://www.amazon.com/exec/obidos/ASIN/B002ZG981E/diesekoschmar-20)*, is the sum total of its wasted talent. Unlike Christopher Nolan, for whom *Inception* represented his personal white whale chased, captured, and carved, Fincher can't be held accountable for the many weaknesses of *Fight Club*. That can be blamed on his source material: the singular novel Chuck Palahniuk's been writing for the better part of the past two decades—*Fight Club* is merely an early incarnation. Read in isolation, it's possible to believe than any one of Palahniuk's books contains the potential to be more than it is—that its strengths, few though they are, may augur the arrival of a more sophisticated writer. Unfortunately, Palahniuk's development as an author could never eclipse the logic behind shampoo: He lathers. He rinses. He repeats. So if I seem particularly annoyed with any isolated moment in *Fight Club*, know that I'm not merely annoyed with that particular moment, but with its many kin. All of which is merely a long preface to a fairly simple argument:
 
 David Fincher's film far outstrips its source material. He accomplishes this not by altering fundamental elements of the plot, but by filming those elements in a way that undercuts, for example, explosive statements or implications of masculinity. For example, when charged to locate and lose a fight with a stranger, Fincher presents the scene comically:
@@ -20,7 +21,7 @@ Fincher took what had, in the novel, been a call to male empowerment and castrat
 
 The first he shoots from quite a distance—one might even call it a safe distance. Moreover, the level of framing is so high above its subjects that the angle of framing is necessarily high too. The camera looks down upon the members of the Assault Committee, that is, it diminishes them by emphasizing their smallness. Nothing so small could exist independently, and the fact that this assignment's called "homework" hammers home that point. Fully fledged adults may have to take work home, but they're not assigned "homework." Only children are. Speaking of which:
 
-![Figure 03](images/film/fight-club-2/03.jpg)\ 
+![Figure 03](images/film/fight-club-2/03.jpg)\
 
 Here's the audience's vantage point for the third "homework" assignment. Instead of being safely across the street, as we were with the priest, or ensconced two stories above the action, as we were in the lobby, Fincher shoots this fight sequence from behind what appear to be the bars of a crib. Whatever happens in that parking lot, the audience need not fear. If even those tiny men in the distance were to traverse the deep space between their current location and ours, Fincher provides us protection in the form of an infantalizing set of iron bars. The lesson Palahniuk's Tyler would have all men learn? Fincher's actively working against the possibility that his Tyler might communicate it to his audience.
 

@@ -1,6 +1,6 @@
 ## Hannibal: Framing can turn you from a witness to the murderer
 
- * Originally located at http://www.avclub.com/article/framing-can-turn-you-from-a-witness-to-the-murdere-102221
+ * Originally published at http://www.avclub.com/article/framing-can-turn-you-from-a-witness-to-the-murdere-102221
 
 Each installment will explore a basic element of visual composition and analyze examples of it to understand how the formal properties of film and television manipulate viewers. There’s an unnecessarily complex, academic name for this sort of analysis—it’s an intentionalist adaptation of Bordwellian neoformalism—but the thrust is that I’ll attempt to help you understand how film *works*.
 

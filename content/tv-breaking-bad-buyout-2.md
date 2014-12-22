@@ -1,6 +1,6 @@
 ## Breaking Bad - "Buyout": Realism and bad manners in Breaking Bad
 
- * Originally located at http://acephalous.typepad.com/acephalous/2012/08/breaking-bad-the-story-of-jesse-and-the-beans.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2012/08/breaking-bad-the-story-of-jesse-and-the-beans.html
 
 In [the previous post](http://www.lawyersgunsmoneyblog.com/2012/08/breaking-bad-is-the-worst-show-in-the-history-of-television), I wrote:
 

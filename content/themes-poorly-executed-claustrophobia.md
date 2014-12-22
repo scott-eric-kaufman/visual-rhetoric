@@ -1,6 +1,6 @@
 ## Poorly Executed Claustrophobia: Claustrophobia is a cumulative effect.
 
-(*Yet another one of [those posts](http://acephalous.typepad.com/acephalous/2011/02/a-visual-rhetoric-compendium.html).*)
+ * Originally pubished at http://acephalous.typepad.com/acephalous/2012/01/claustrophobia-is-a-cumulative-effect.html
 
 Representing claustrophobic situations on screen should be simple enough: you take a person, put them in a confined space, and then you bury them alive. Doesn't matter if they're Buffy (in "Bargaining"):
 
@@ -24,7 +24,7 @@ The answer is: holistically. By which I mean, burying characters for X-amount-of
 
 Does this long shot feel claustrophobic to you? Of course not. It's a brightly lit long shot: the lighting (and depth of field) allows the audience to observe details in the fore-, mid- and background, while the scale assures the audience that there's plenty to observe in all those grounds. To think counterfactually for a moment, it's not that shot couldn't be made more claustrophobic. Had the director cropped out some unnecessary visual information:
 
-![Figure 05](images/themes/poorly-executed-claustrophobia/05.jpg)\ 
+![Figure 05](images/themes/poorly-executed-claustrophobia/05.jpg)\
 
 Still a long shot, but by focusing more narrowly on Agent Booth and the lab technician, the space on-screen seems more cramped. If those officers in the back were to scoot a few feet to the left, the composition of the shot would be more structured, creating an impression in the audience that the characters are bookended or boxed in. Tweak every shot in the episode thus and it'd be possible to create an atmosphere that would inspire claustophobic identification in the audience. ("Sympathetic identification with characters feeling claustrophobic" sounded like too much of a mouthful, but that's essentially what I mean here.)
 

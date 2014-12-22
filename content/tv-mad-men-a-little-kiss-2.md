@@ -1,6 +1,6 @@
 ## Mad Men - "A Little Kiss": The Ballad of Peter and Peggy, Redux, in "A Little Kiss"
 
- * Originally located at http://acephalous.typepad.com/acephalous/2012/03/the-ballad-of-peter-and-peggy-redux-in-a-little-kiss.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2012/03/the-ballad-of-peter-and-peggy-redux-in-a-little-kiss.html
 
 Poor self-defeating Pete, trying his best to become the very Draper whose misery's invisible to him. Remember when Pete had hope, and director John Slattery hammered the possibility of it home via reverse shots? [How Pete saw Peggy longing for him](http://acephalous.typepad.com/acephalous/2010/08/the-fourth-season-of-mad-men-has-been-maligned-in-some-corners-because-it-merely-continues-to-be-superb-such-are-the-burdens.html):
 

@@ -1,6 +1,6 @@
 ## Breaking Bad: Bringing Breaking Bad into focus
 
- * Originally located at http://www.avclub.com/article/bringing-embreaking-badem-into-focus-103361
+ * Originally published at http://www.avclub.com/article/bringing-embreaking-badem-into-focus-103361
 
 What is this?
 

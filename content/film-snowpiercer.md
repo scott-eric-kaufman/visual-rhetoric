@@ -1,6 +1,6 @@
 ## Snowpiercer: The second half of Snowpiercer was more, not less, claustrophobic than the first
 
- * Originally located at http://www.avclub.com/article/second-half-snowpiercer-was-more-not-less-claustro-207205
+ * Originally published at http://www.avclub.com/article/second-half-snowpiercer-was-more-not-less-claustro-207205
 
 Much praise has been showered upon the unsubtle English-language debut of South Korean director Bong Joon-ho, *[Snowpiercer](/review/director-host-comes-snowpiercer-thrilling-action-p-206132)*, but the most interesting came from an unexpected source, conservative columnist Michael Potemra, who wrote that “the film succeeds aesthetically and as pure entertainment” despite the fact that “it’s a pretty heavy-handed Marxist allegory.” Convincing your ideological opponent that your “heavy-handed” slagging of their belief system is an exceptional work of art is quite the feat. Imagine convincing the grandchild of someone who survived a concentration camp that Leni Riefenstahl brilliantly captured the pain of the German people when she had Hitler lay a wreath on the Great War memorial in *Triumph Of The Will*. Not going to happen.
 

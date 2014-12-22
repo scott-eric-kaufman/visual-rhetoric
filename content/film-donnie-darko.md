@@ -1,6 +1,6 @@
 ## Donnie Darko: It’s not just the direction that makes Donnie Darko creepy
 
- * Originally located at http://www.avclub.com/article/its-not-just-the-direction-that-makes-idonnie-dark-104624
+ * Originally published at http://www.avclub.com/article/its-not-just-the-direction-that-makes-idonnie-dark-104624
 
 ![440840](images/film/donnie-darko/440840.jpg)\
 

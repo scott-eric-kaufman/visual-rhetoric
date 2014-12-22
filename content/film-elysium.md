@@ -1,6 +1,6 @@
 ## Elysium: The two distinct styles of Elysium’s camera work create two realities
 
- * Originally located at http://www.avclub.com/article/the-two-distinct-styles-of-elysiums-camera-work-cr-200921
+ * Originally published at http://www.avclub.com/article/the-two-distinct-styles-of-elysiums-camera-work-cr-200921
 
 All film is illusion. They were originally called “moving pictures” for a reason: Films lie to their audiences, convincing them that the series of still-frames flipping before their eyes capture a slice of reality. Film provided unmitigated access to the world, especially when the camera appeared to be operated by a hyperactive toddler with the DTs.
 

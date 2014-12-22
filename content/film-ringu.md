@@ -1,6 +1,6 @@
 ## Ringu: Ringu knows that boredom and horror can be a potent mix
 
- * Originally located at http://www.avclub.com/article/ringu-knows-boredom-and-horror-can-be-potent-mix-210591
+ * Originally published at http://www.avclub.com/article/ringu-knows-boredom-and-horror-can-be-potent-mix-210591
 
 With Halloween on the horizon, it only makes sense for this feature to devote itself to what makes horror films horrifying. It warrants noting that films amounting to little more than non-consensual exercises in extreme body modification don’t deserve to be called “horror,” because, while horrifying, they lack the most essential element of a real horror film—a firm commitment to boredom.
 

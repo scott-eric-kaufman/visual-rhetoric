@@ -1,6 +1,6 @@
 ## Mad Men - "In Care Of": Disappointment “In Care Of” Convention
 
- * Originally located at http://acephalous.typepad.com/acephalous/2013/06/mad-men-disappointment-in-care-of-convention.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2013/06/mad-men-disappointment-in-care-of-convention.html
 
 In [my previous post](http://www.lawyersgunsmoneyblog.com/2013/06/mad-men-in-care-of-what-oh-really) on “In Care Of,” I defined an “Oh Really” sequence as as structure of escalating exchanges that requires no dialogue to be understood. What I didn’t say — but which should make perfect sense in retrospect — is that such sequences are most often found in the saloons of classic American Westerns. Just consider what would happen to that scene if you put Don in a ridiculously large cowboy hat:
 

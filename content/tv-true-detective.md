@@ -1,6 +1,6 @@
 ## True Detective: True Detective teaches us to trust liars
 
- * Originally located at http://www.avclub.com/article/true-detective-teaches-us-trust-liars-202414
+ * Originally published at http://www.avclub.com/article/true-detective-teaches-us-trust-liars-202414
 
 Narration in film and television is what evolutionary theorists would call an atavism–the reappearance of a once necessary trait long past its usefulness. When Homer roamed the Greek world reciting the *Iliad*, a narrator was necessary. When Shakespeare broke the fourth wall and told his audience how to feel about a betrayal, narration served a purpose. When Warner Bros. forced Harrison Ford to tell us “Rachel was special,” however, it died a horrible death:
 

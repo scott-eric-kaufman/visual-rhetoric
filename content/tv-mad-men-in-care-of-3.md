@@ -1,6 +1,6 @@
 ## Mad Men - "In Care Of": Who's "In Care Of" what now?
 
- * Originally located at http://acephalous.typepad.com/acephalous/2013/07/mad-men-whos-in-care-of-what-now.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2013/07/mad-men-whos-in-care-of-what-now.html
 
 In my [first post](http://www.lawyersgunsmoneyblog.com/2013/06/mad-men-in-care-of-what-oh-really) on “In Care Of,” I discussed the importance of the logic of the “Oh Really” sequence to the episode; in [the second](http://www.lawyersgunsmoneyblog.com/2013/06/mad-men-disappointment-in-care-of-convention),
  I not only proved that cowboy hats aren’t the new lasers, but also that Matthew Weiner is dedicated to creating pain by any means necessary, including undermining the importance of structural elements like the “Oh Really” sequence. In other words, my first two posts were about how Weiner creates tension via the visuals and sustains it by undermining the visuals that created it via the narrative. Most television shows — and most television writers — have a particular set of visual and narrative crutches they break out when they need to rouse their viewers. For example, Joss Whedon favors hackneyed speeches undermined by immediate circumstances:

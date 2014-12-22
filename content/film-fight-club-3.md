@@ -1,6 +1,6 @@
 ## Fight Club: Follow that thought!
 
-(*Yet another one of [those posts](http://acephalous.typepad.com/acephalous/2011/02/a-visual-rhetoric-compendium.html).*)
+* Originally published at http://acephalous.typepad.com/acephalous/2012/01/follow-that-thought.html
 
 The opening credit sequence in *Fight Club* is a nifty little reverse-literalization of a common directorial device for representing thought on screen. The technique typically works in the manner it does at the end of the film's first scene. Start with a medium close-up of a face:
 

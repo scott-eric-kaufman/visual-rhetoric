@@ -1,6 +1,6 @@
 ## Orange is the New Black: Orange Is The New Black demonstrates the importance of contiguity
 
- * Originally located at http://www.avclub.com/article/orange-new-black-demonstrates-importance-contiguit-205793
+ * Originally published at http://www.avclub.com/article/orange-new-black-demonstrates-importance-contiguit-205793
 
 The second season of Netflix’s *[Orange Is The New Black](/article/orange-new-hill-street-blues-205425?utm_source=Twitter&amp;utm_medium=SocialMarketing&amp;utm_campaign=Default:1:Default)* opens by delivering what it believes its audience wants—all Piper, all the time—and does so with a suitably big directorial gun in Jodie Foster. It is also, hands down, the most dull and predictable episode of the season. However, the second episode, “[Looks Blue, Tastes Red](/tvclub/orange-new-black-thirsty-birdlooks-blue-tastes-red-205323),” is a reminder of what makes the series work, being less about the big-named principals and more about the people whose stories slip through the cracks, and directed by someone with talent, but not name recognition.
 

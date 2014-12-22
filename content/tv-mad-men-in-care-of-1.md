@@ -1,6 +1,6 @@
 ## <em>Mad Men</em>: "In Care Of" What? Oh Really? - Acephalous
 
- * Originally located at http://acephalous.typepad.com/acephalous/2013/06/mad-men-in-care-of-what-oh-really.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2013/06/mad-men-in-care-of-what-oh-really.html
 
 The season finale of *Mad Men*, “In Care Of,” contains an inordinate number of what I call “Oh Really?” [reverse shots](http://classes.yale.edu/film-analysis/htmfiles/editing.htm#51531). They typically don’t involve dialogue — and the episode will end with one that doesn’t — but at the beginning of the episode it does. It’s also odd because it substitutes a flashback for an “Oh Really?” escalation, but I’m getting ahead of myself. When representatives from the Sheraton Royal Hawaiian arrive at whatever the name of the firm is at this point — because not knowing the firm is part of the point at this point — Don Draper isn’t in the office. You may remember the Royal Hawaiian from the season premier, [and if you do](http://acephalous.typepad.com/acephalous/2013/04/mad-men-dont-go-into-the-doorway-don.html), you can probably anticipate Don’s whereabouts. Here he is at the Royal Hawaiian:
 

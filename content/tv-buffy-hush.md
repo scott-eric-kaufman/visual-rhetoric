@@ -1,6 +1,6 @@
 ## Buffy the Vampire Slayer - "Hush": Check out that face!
 
- * Originally located at http://acephalous.typepad.com/acephalous/2011/02/buffy-the-vampire-slayer-hush-lecture-notes.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2011/02/buffy-the-vampire-slayer-hush-lecture-notes.html
 
 After re-watching the infamous silent episode from the fourth season of *Buffy the Vampire Slayer*, "Hush," I am compelled to conclude that Joss Whedon loves him some [tracking shots](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#23579).  Unless the camera is tightly framed on someone's face, it's either [panning](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#23577) or [tilting](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#23578) or both.  If this were my only encounter with his work, I'd probably draw the conclusion that because the majority of the episode contains no spoken dialogue, Whedon felt the camera work had to be dynamic enough to sustain audience interest.  But that's not the case: Whedon's camera is consistently active, only a bit hyper in "Hush."  For example, when Buffy finishes her ablutions and enters the hallway, the camera pans with her:
 

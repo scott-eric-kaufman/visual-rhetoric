@@ -1,6 +1,6 @@
 ## Mad Men - "A Little Kiss": Sally and Don in "A Little Kiss"
 
- * Originally located at http://acephalous.typepad.com/acephalous/2012/03/mad-men-a-little-kiss.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2012/03/mad-men-a-little-kiss.html
 
 First of all, let me begin with what I won't be talking about: race. It's clearly going to be an abiding issue this season–it bookends "A Little Kiss," first as an insensitive tragedy, later as an almost unmangeable farce–but the majority of what comes between these allusions to the Civil Rights movement concerns the demise of almost every relationship in the lives of Sterling Cooper Draper Pryce's employees. For example, here's the sole appearance of the former Mrs. Draper:
 

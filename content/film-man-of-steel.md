@@ -1,6 +1,6 @@
 ## Man of Steel: Man of Steel is, hands down, the greatest movie I have ever seen
 
- * Originally located at http://acephalous.typepad.com/acephalous/2013/11/man-of-steel-is-hands-down-the-greatest-movie-i-have-ever-seen.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2013/11/man-of-steel-is-hands-down-the-greatest-movie-i-have-ever-seen.html
 
 I watched *Man of Steel* again yesterday, and all I can say is that on second-viewing, I'm impressed by Zak Synder's subtlety. He captured Superman's [insectile origins](http://acephalous.typepad.com/acephalous/2009/08/leverage-and-the-liberal-pornographic.html) quite superbly -- native Kryptonians fly aback demon dragonflies and travel the stars in space-beetles! -- and never once tried to compare this creation of two Jews writing at the advent of the Second World War to anything inappropriate:
 

@@ -1,6 +1,6 @@
 ## Fellowship of the Ring: Conventions of film, conventions of genre
 
- * Originally located at http://acephalous.typepad.com/acephalous/2012/10/fellowship-of-the-ring-conventions-of-film-conventions-of-genre.html
+ * Originally published at http://acephalous.typepad.com/acephalous/2012/10/fellowship-of-the-ring-conventions-of-film-conventions-of-genre.html
 
 (*One of [the visual rhetoric posts](http://acephalous.typepad.com/acephalous/2012/02/scott-eric-kaufmans-visual-rhetoric-compendium-as-of-11282011.html) born of [this course](http://acephalous.typepad.com/acephalous/2012/08/new-syllabus-game-of-thrones-bold-plan-or-blasphemy.html). If it seems a little more basic than the rest of those posts, that’s because it’s the first real day of class and I have to start somewhere.*)
 

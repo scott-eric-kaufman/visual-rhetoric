@@ -1,6 +1,6 @@
 ## Game Of Thrones cordially invites you to take a damn seat at the kiddie table
 
- * Originally located at http://www.avclub.com/article/game-thrones-cordially-invites-you-take-damn-seat--203286
+ * Originally published at http://www.avclub.com/article/game-thrones-cordially-invites-you-take-damn-seat--203286
 
 The season premiere of *[Game Of Thrones](/tv/game-of-thrones-newbies/)*, “[Two Swords](/tv/game-of-thrones-newbies/),” is ferocious in its insistence on our smallness. Director D.B. Weiss consistently uses a level of framing—the height at which a camera films objects in a scene—that gives the impression he is, quite literally, shooting from the hip...
 

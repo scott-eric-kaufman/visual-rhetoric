@@ -40,11 +40,11 @@ var sanitizeReplacements = {
 	'<a href="([^"]+)"><span[^>]+>([^<]+)</span></a>' : '[$2]($1)',
 	'<a href="([^"]+)" target="_self">([^<]+)</a>' : '[$2]($1)',
 	// <p style="text-align: center;"><a href="http://acephalous.typepad.com/.a/6a00d8341c2df453ef01116888bbf3970c-pi" style="display: inline;"><img alt="1" class="at-xid-6a00d8341c2df453ef01116888bbf3970c " src="http://acephalous.typepad.com/.a/6a00d8341c2df453ef01116888bbf3970c-320wi"></a>
-	'<a href="([^"]+)".*><img.*src="([^"]+)"></a>' : '\n\n![$1]($1)\n\n',
+	'<a href="([^"]+)".*><img.*src="([^"]+)"></a>' : '\n\n![$1]($1)\\ \n\n',
 	// <a class="asset-img-link" href="http://acephalous.typepad.com/.a/6a00d8341c2df453ef017d3c71ba3d970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false"><img alt="Lord of the rings - fellowship of the ring00001" class="asset  asset-image at-xid-6a00d8341c2df453ef017d3c71ba3d970c" src="http://acephalous.typepad.com/.a/6a00d8341c2df453ef017d3c71ba3d970c-500wi" style="display: block; margin-left: auto; margin-right: auto;" title="Lord of the rings - fellowship of the ring00001" /></a>
-	'<a class="asset-img-link" href="[^"]+" onclick="[^"]+"><img alt="[^"]+" class="[^"]+" src="http://acephalous.typepad.com/.a/([a-f0-9]+)-500wi" style="[^"]+" title="[^"]+" ?/?></a>' : '\n\n![$1](images/film//$1.jpg)\n\n',
+	'<a class="asset-img-link" href="[^"]+" onclick="[^"]+"><img alt="[^"]+" class="[^"]+" src="http://acephalous.typepad.com/.a/([a-f0-9]+)-500wi" style="[^"]+" title="[^"]+" ?/?></a>' : '\n\n![$1](images/film//$1.jpg)\\ \n\n',
 	// <a href="http://acephalous.typepad.com/.a/6a00d8341c2df453ef015391e2702a970b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false"><img alt="Superman00001" class="asset  asset-image at-xid-6a00d8341c2df453ef015391e2702a970b" src="http://acephalous.typepad.com/.a/6a00d8341c2df453ef015391e2702a970b-500wi" style="display: block; margin-left: auto; margin-right: auto;" title="Superman00001" /></a>
-	'<a href="[^"]+" onclick="[^"]+"><img alt="[^"]+" class="[^"]+" src="http://acephalous.typepad.com/.a/([0-9a-f]+)-500wi"[^>]+></a>' : '\n\n![$1](images/film//$1.jpg)\n\n',
+	'<a href="[^"]+" onclick="[^"]+"><img alt="[^"]+" class="[^"]+" src="http://acephalous.typepad.com/.a/([0-9a-f]+)-500wi"[^>]+></a>' : '\n\n![$1](images/film//$1.jpg)\\ \n\n',
 	'<p.*>' : '\n',
 	'<span.*>' : '',
 	'</span>' : '',

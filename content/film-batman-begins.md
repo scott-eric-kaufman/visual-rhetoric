@@ -148,7 +148,7 @@ He hits nothing, but because he already fired to his left he assumes *nothing ca
 
 What was that?
 
-![Figure 36](images/film/batman-begins/36.gif)
+![Figure 36](images/film/batman-begins/36.jpg)
 
 Shoot it!
 

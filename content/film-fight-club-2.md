@@ -5,7 +5,7 @@
 
 David Fincher's film far outstrips its source material. He accomplishes this not by altering fundamental elements of the plot, but by filming those elements in a way that undercuts, for example, explosive statements or implications of masculinity. For example, when charged to locate and lose a fight with a stranger, Fincher presents the scene comically:
 
-![Figure 01](images/film/fight-club-2/01.jpg)
+![Figure 01](images/film/fight-club-2/01.jpg)\
 
 He uses a long shot to emphasize how unnecessary this altercation is. That priest can turn his other cheek and exist the mise-en-scène without being goaded by the mechanic and his hose a second time. The priest isn't, to paraphrase the narrator, doing just about anything he can to avoid a fight. He's walking away. It's not until the mechanic steals and waters his Bible that the priest becomes disturbed enough to muster a shove. The ensuing "fight" consists of the priest slapping the mechanic twice before running away. Moreover, the goofy non-diegetic sound playing throughout this sequence undercuts the bravery of all involved. The priest doesn't embrace his masculinity when he confronts the mechanic, nor is the mechanic's masculinity challenged by the priest's feeble attempt to confront him. Compare the Keystone Kops routine above with Palahniuk's description of the same in the novel:
 
@@ -16,11 +16,11 @@ He uses a long shot to emphasize how unnecessary this altercation is. That pries
 
 Fincher took what had, in the novel, been a call to male empowerment and castrated it. Combined with the punctuated humdruming of the non-diegetic track, the long and extreme long shots Fincher uses throughout that scene undermine Palahniuk's insistence, voiced by Tyler, that the purpose behind this random violence "is to remind these guys what kind of power they still have." Fincher disagrees. In addition to the altercation with the priest above, he presents two more:
 
-![Figure 02](images/film/fight-club-2/02.jpg)
+![Figure 02](images/film/fight-club-2/02.jpg)\
 
 The first he shoots from quite a distance—one might even call it a safe distance. Moreover, the level of framing is so high above its subjects that the angle of framing is necessarily high too. The camera looks down upon the members of the Assault Committee, that is, it diminishes them by emphasizing their smallness. Nothing so small could exist independently, and the fact that this assignment's called "homework" hammers home that point. Fully fledged adults may have to take work home, but they're not assigned "homework." Only children are. Speaking of which:
 
-![Figure 03](images/film/fight-club-2/03.jpg)
+![Figure 03](images/film/fight-club-2/03.jpg)\ 
 
 Here's the audience's vantage point for the third "homework" assignment. Instead of being safely across the street, as we were with the priest, or ensconced two stories above the action, as we were in the lobby, Fincher shoots this fight sequence from behind what appear to be the bars of a crib. Whatever happens in that parking lot, the audience need not fear. If even those tiny men in the distance were to traverse the deep space between their current location and ours, Fincher provides us protection in the form of an infantalizing set of iron bars. The lesson Palahniuk's Tyler would have all men learn? Fincher's actively working against the possibility that his Tyler might communicate it to his audience.
 

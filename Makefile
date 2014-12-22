@@ -17,6 +17,7 @@ epub:
 pdf:
 	pandoc -f markdown \
 		--chapters \
+		--variable mainfont=Georgia \
 		--template content/template.tex \
 		--toc \
 		-o VisualRhetoric.pdf \

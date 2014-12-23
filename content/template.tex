@@ -82,7 +82,7 @@ $if(graphics)$
 \usepackage[T1]{fontenc}
 \usepackage{color}
 \definecolor{RoyalRed}{RGB}{157,16, 45}
-\usepackage{titlesec}
+\usepackage[raggedright,pagestyles,extramarks]{titlesec}
 % \usepackage{lipsum}
 \titleformat{\chapter}[display]
   {\normalsize \huge  \color{black}}%
@@ -93,7 +93,7 @@ $if(graphics)$
   {\bfseries\huge}%
 %\titleformat{\chapter}[display]%
 %    {\relax}{\mbox{}\oldmarginpar{\vspace*{-3\baselineskip}\color{halfgray}\chapterNumber\thechapter}}{0pt}%
-%    {\raggedright}[\normalsize\vspace*{.8\baselineskip}\titlerule]% 
+%    {\raggedright}[\normalsize\vspace*{.8\baselineskip}\titlerule]%
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -166,6 +166,23 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
+% Force page break on new chapter - JB
+\newcommand{\sectionbreak}{\clearpage}
+
+% Custom page header - JB
+\newpagestyle{main-a}{%
+  \headrule
+  \sethead{XX \thechapter. \chaptertitle}{}{\pbox[b]{3in}{\thesection. \sectiontitle}}
+  \setfoot{}{\usepage}{}%
+  %\sethead[\pbox[b]{5in}{\chaptername~\thechapter\quad\chaptertitle}][][]{}{}{\pbox[b]{5in}{\thesection\quad\sectiontitle}}
+  %\setfoot[][\thepage][]{}{\thepage}{}
+}
+\newpagestyle{main-b}{%
+  \headrule
+  \sethead[\parbox[b]{4.75in}{\textbf{\chaptername~\thechapter\quad\chaptertitle}}][][]{}{}{\parbox[b]{4.75in}{\normalsize\raggedleft\textbf{\sectiontitle}}}
+  \setfoot{}{\parbox{0.4\textwidth}{\centering\thepage}}{}
+}
+
 \begin{document}
 
 % Attempt graphics title - JB
@@ -183,6 +200,9 @@ $if(abstract)$
 $abstract$
 \end{abstract}
 $endif$
+
+% Set page header style - JB
+\pagestyle{main-b}
 
 $for(include-before)$
 $include-before$

@@ -18,7 +18,7 @@ Before addressing this scene in particular, I need to mention one thing that I h
 
 ![6a00d8341c2df453ef016761fcf5d0970b](images/tv/doctor-who-amys-choice/6a00d8341c2df453ef016761fcf5d0970b.jpg)\
 
-He drops them through a crack in the universe and *erases them from history*. They're not dead—they've never even existed. Hitler would've blushed with envy. In the next episode, "Vampires of Venice," he encounters a race of interstellar* refugees* who have taken up residence in Sixteenth Century Venice. What are these refugees seeking refuge from?
+He drops them through a crack in the universe and *erases them from history*. They're not dead—they've never even existed. Hitler would've blushed with envy. In the next episode, "Vampires of Venice," he encounters a race of interstellar *refugees* who have taken up residence in Sixteenth Century Venice. What are these refugees seeking refuge from?
 
 The aforementioned crack in the universe.
 

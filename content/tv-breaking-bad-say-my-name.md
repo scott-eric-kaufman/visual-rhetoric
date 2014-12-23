@@ -1,4 +1,4 @@
-## Breaking Bad: "Say My Name," or fine, maybe don't even acknowledge I exist.
+## Breaking Bad - "Say My Name": "Say My Name," or fine, maybe don't even acknowledge I exist.
 
  * Originally published at http://acephalous.typepad.com/acephalous/2012/08/breaking-bad-say-my-name.html
 

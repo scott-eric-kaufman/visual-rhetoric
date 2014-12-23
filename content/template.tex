@@ -188,9 +188,7 @@ $endfor$
 % Attempt graphics title - JB
 % \includegraphics[width=7in,height=10in,keepaspectratio]{images/visual-rhetoric.jpg}
 % \newpage
-\incgraph[documentpaper,
-  overlay={\node[red] at (page.center) {\Huge Picture sized to paper};}]
-  [width=\paperwidth,height=\paperheight]{images/visual-rhetoric.jpg}
+\incgraph[documentpaper][width=\paperwidth,height=\paperheight]{images/visual-rhetoric.jpg}
 
 $if(title)$
 \maketitle

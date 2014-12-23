@@ -2,7 +2,10 @@ all: clean epub pdf
 
 CONTENT := \
 		content/000-meta.yaml \
-		content/*.md
+		content/film-*.md \
+		content/tv-*.md \
+		content/comics-*.md \
+		content/themes-*.md
 
 clean:
 	rm -f VisualRhetoric.*
@@ -16,6 +19,7 @@ epub:
 
 pdf:
 	pandoc -f markdown \
+		-V geometry:margin=.7in \
 		--chapters \
 		--variable mainfont=Georgia \
 		--template content/template.tex \

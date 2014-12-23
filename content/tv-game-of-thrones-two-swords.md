@@ -1,4 +1,4 @@
-## Game Of Thrones cordially invites you to take a damn seat at the kiddie table
+## Game of Thrones - "Two Swords": Game Of Thrones cordially invites you to take a damn seat at the kiddie table
 
  * Originally published at http://www.avclub.com/article/game-thrones-cordially-invites-you-take-damn-seat--203286
 
@@ -48,7 +48,7 @@ It is almost as if he’s treating Tyrion as he would a child...
 
 Because he clearly is. In this shot, however, the level of framing—and the sympathy that comes with it—is functioning as it normally does. Weiss is concerned with creating a network of sympathy focalized through a perspective that closely resembles, height-wise, Tyrion’s. But it doesn't belong to Tyrion alone, as the final scene in “Two Swords” makes clear...
 
-![510932](images/tv/game-of-thrones-two-swords/510932.jpg)\ 
+![510932](images/tv/game-of-thrones-two-swords/510932.jpg)\
 
 If Weiss had wanted to make the outcome of this fight more apparent, he could have used a level of framing in keeping with the Hound’s perspective; instead, he chose a perspective concomitant with Arya’s. The episode ends much as it began, with the audience asked to occupy the perspective of a child. Only this time the audience is not being asked to stand on tip-toes to peer over the sword on the table, because there is no sword on the table.
 

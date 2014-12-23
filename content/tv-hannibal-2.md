@@ -1,4 +1,4 @@
-## Surprisingly, not unwatchable: <em>Hannibal</em> - Acephalous
+## Hannibal: Surprisingly, not unwatchable
 
  * Originally located at http://acephalous.typepad.com/acephalous/2013/04/surprisingly-not-unwatchable-hannibal.html
 

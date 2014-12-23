@@ -1,10 +1,7 @@
-## On <em>Leverage</em> ("The Van Gogh Job") - Acephalous
+## Leverage - "The Van Gough Job": On *Leverage* ("The Van Gogh Job")
 
  * Originally located at http://acephalous.typepad.com/acephalous/2012/01/leverage-post.html
 
-
-
-(*This be yet another one of [them posts](http://acephalous.typepad.com/acephalous/2011/02/a-visual-rhetoric-compendium.html).*)
 Before analyzing a sequence from the "Van Gogh Job" episode of *Leverage*, I need to discuss a little something about color and continuity. First, you may be familiar with Vincent Van Gogh, but if not, all you need to know is the man loved his yellows:
 
 ![6a00d8341c2df453ef0168e5280746970c](images/tv/leverage-the-van-gogh-job/6a00d8341c2df453ef0168e5280746970c.jpg)

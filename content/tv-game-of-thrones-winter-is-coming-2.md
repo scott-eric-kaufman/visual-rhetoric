@@ -38,7 +38,7 @@ They're  clearly happy parents. Of course, the novel tells us otherwise, especia
 
 This is Bran's understanding of his world, and if it doesn't align with Catelyn's, that's beside  the point. Van Patten's providing insight into Bran's thoughts about  life in Winterfell, including those about his sisters, one of whom:
 
-![6a00d8341c2df453ef017d3c3829ba970c](images/tv/game-of-thrones-winter-is-coming-2/.png)\
+![6a00d8341c2df453ef017d3c3829ba970c](images/tv/game-of-thrones-winter-is-coming-2/6a00d8341c2df453ef017d3c3829ba970c.png)\
 
 Is very much the little princess and important. Note that in this medium close-up of Sansa the Nurse occupies the same position Jon Snow did before the cut with one significant difference: whereas Jon [towered over Bran](http://acephalous.typepad.com/.a/6a00d8341c2df453ef017ee3ada57a970d-popup) as he taught him and only [leaned over](http://acephalous.typepad.com/.a/6a00d8341c2df453ef017c3209d08f970b-popup) to provide advice, the Nurse is central to the frame but still sits in a position of supplication. Unlike Bran, then, who treats his bastard brother as an equal, Sansa can't even bear to have her beloved Nurse look her directly in the eye. I'd argue that this is still Bran's perspective of both this sister and the other one in the scene, Arya, who's actually more central than her sister both initially, above, and as the camera [tracks laterally](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#23579) to the left:
 

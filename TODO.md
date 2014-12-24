@@ -19,8 +19,6 @@ Also have to go through everything at http://acephalous.typepad.com/acephalous/v
 
 ### Comics
 
-Everything from http://acephalous.typepad.com/acephalous/2012/02/scott-eric-kaufmans-visual-rhetoric-compendium-as-of-11282011.html
-
 ### Themes
 
  * http://acephalous.typepad.com/acephalous/2012/10/on-filming-comedy-versus-drama.html

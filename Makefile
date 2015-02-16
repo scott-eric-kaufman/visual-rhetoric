@@ -19,7 +19,7 @@ epub:
 
 pdf:
 	pandoc -f markdown \
-		-V geometry:margin=.7in \
+		-V geometry:margin=1.2in \
 		--chapters \
 		--variable mainfont=Georgia \
 		--template content/template.tex \

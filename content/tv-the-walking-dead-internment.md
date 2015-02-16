@@ -10,13 +10,13 @@ For one, Boyd’s use of close-ups in this episode weren’t used to cheaply int
 
 Consider, for example, this close-up of Rick’s gun:
 
-![01](images/tv/the-walking-dead-internment/wdin01.jpg)\
+![01](images/tv/the-walking-dead-internment/wdin01.jpg)\ 
 
 It’s the culmination of the should-he-or-shouldn’t-he-pick-up-arms subplot, but instead of having Rick say something about it, Boyd just places Rick’s gun in-frame and lets it speak for itself. Note, though, that the gun’s slightly off-center, a screen-position people have been trained by Hollywood to hate.
 
 The audience, then, is primed for something to happen — and conventionally, that “something” would be that the camera shifts to the left and “properly” frames the gun, dead-center, since it’s the most important element in the shot. Boyd knows that’s the expectation — he knows that his audience [craves symmetry in its compositions](http://acephalous.typepad.com/acephalous/2012/03/mad-men-a-little-kiss.html) — but instead of conceding to audience expectations, he recapitulates the should-he-or-shouldn’t-he argument:
 
-![02](images/tv/the-walking-dead-internment/wdin02.jpg)\
+![02](images/tv/the-walking-dead-internment/wdin02.jpg)\ 
 
 When Rick’s pea-bearing hand enters the frame, Boyd [racks the focus](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#53908),  shifting the emphasis from the arms he just took up to the green thumbs he put them down for. In a single shot, then, Boyd’s reminded the audience of the Big Decision Rick had to make, but he did so without having to use dialogue as a crutch, as the show so often has. What could have been a tossed off transition between scenes in which characters indulge in unnecessary expository monologues is, instead, a seemingly tossed-off reminder of past soul-searching.
 
@@ -24,18 +24,18 @@ But I should get to what I mentioned in the title, about us all dying alone and 
 
 For example, when Hershel is caring for Glenn, the shots and reverses are all one-shots:
 
-![03](images/tv/the-walking-dead-internment/wdin03.jpg)\
+![03](images/tv/the-walking-dead-internment/wdin03.jpg)\ 
 
 After an episode in which everyone shared a frame, this sequence of what would otherwise be comforting close-ups instead creates a virtual barrier between caretaker, above, and caretaken, below:
 
-![04](images/tv/the-walking-dead-internment/wdin04.jpg)\
+![04](images/tv/the-walking-dead-internment/wdin04.jpg)\ 
 
 It’s almost as if Boyd wants the audience to recognize the danger of intimacy by refusing to let characters share the frame. I’m not saying there aren’t any two-shots in the episode, but most of them look like this:
 
-![05](images/tv/the-walking-dead-internment/wdin05.jpg)\
+![05](images/tv/the-walking-dead-internment/wdin05.jpg)\ 
 
 They’re not alone, they’re talking … through a glass pane in which Hershel’s ghostly reflection is the closest thing to frame-center, creating a composition in which characters are subordinate to their second-order selves, and conversations are always mediated. Something *always*, and here *literally*, comes between these people. It’s a harrowing experience, watching as the distance between these characters eats away at them, whether it be literally, as with the glass above, or in cinematic terms, as when Rick and Carl decide a [standoff](http://en.wikipedia.org/wiki/Mexican_standoff) is the most appropriate venue for a father-son conversation:
 
-![06](images/tv/the-walking-dead-internment/wdin06.jpg)\
+![06](images/tv/the-walking-dead-internment/wdin06.jpg)\ 
 
 When Boyd’s not using close-ups to create distance between characters, he settles for actual distance, shooting somber reunions as he would a prelude to gunplay.

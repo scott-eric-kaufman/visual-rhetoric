@@ -6,7 +6,7 @@
 
 Some books teach you how to read them: *Ulysses*,* Gravity's Rainbow*, *JR*, and *Infinite Jest* spring first to mind.  From a purely formal perspective *Watchmen* belongs in their company.  It does to the conventions of comic narrative what Joyce did to realism, Pynchon did to pulp, Gaddis did to dialogue and Foster Wallace did to sentiment.  All the techniques discussed in the following had been used in comics before—there is nothing new under [the oxen of the sun](http://en.wikipedia.org/wiki/Ulysses_%28novel%29#Episode_14.2C_The_Oxen_of_the_Sun)—but never in the service of creating a new breed of reader.  Consider the following sequence of panels from the funeral of the Comedian:
 
-![6a00d8341c2df453ef011168a86d0b970c](images/comics/watchmen-4/6a00d8341c2df453ef011168a86d0b970c.jpg)\
+![6a00d8341c2df453ef011168a86d0b970c](images/comics/watchmen-4/6a00d8341c2df453ef011168a86d0b970c.jpg)\ 
 
 The first three panels transition moment-to-moment.  Such transitions slow down the action by forcing the reader to observe actions divided into their constiuent parts.  They typically depict a realization on the part of the character which the author wants the reader to linger over ([for example](http://acephalous.typepad.com/files/oz02.jpg)) or a demonstration of how fast or powerful someone is.  But the "action" that Moore slices into its constiuent parts consists of "listening while standing still."  
 
@@ -14,15 +14,15 @@ For a hack like Mark Millar the [amount of dialogue](http://acephalous.typepad.c
 
 But Moore is no Millar.  (How better to compel readers to pay attention to a face than four consecutive panels that zoom in on it?)  Moore wants the reader to focus his attention on the expression Ozymandias wears and the pat content of the eulogy.  The payoff of the latter is dialogue-driven and immediate; the former, however, pays off in a way only comics can.  When the moment-to-moment transitions give way to the scene-to-scene transitions in the third and fourth panels the change in Ozymandias's expression is as subtle as it is important:
 
-![6a00d8341c2df453ef0112791ce63028a4](images/comics/watchmen-4/6a00d8341c2df453ef0112791ce63028a4.jpg)\
+![6a00d8341c2df453ef0112791ce63028a4](images/comics/watchmen-4/6a00d8341c2df453ef0112791ce63028a4.jpg)\ 
 
 As the scene moves from the present to the past the vacant expression Ozymandias wears in the third panel gives way to weariness in the fourth.  Pay attention to the eyes: somehow neither the mask nor the adhesive with which he glued it to his face can hide the bags beneath his eyes in the fourth panel.  The moment observed by the steely eyes in the third panel brims with resignation and despair . . . and yet those eyes reveal nothing but cold resolve.  Whatever flashback the reader witnesses will involve some sort of transformation from the man in the fourth panel into the man in third.  Ozymandias later confirms this suspicion:
 
-![6a00d8341c2df453ef011168a8831e970c](images/comics/watchmen-4/6a00d8341c2df453ef011168a8831e970c.jpg)\
+![6a00d8341c2df453ef011168a8831e970c](images/comics/watchmen-4/6a00d8341c2df453ef011168a8831e970c.jpg)\ 
 
 That meeting catalyzed Ozymandias.  It changed him into the man who could do what he eventually did.  While serving witness to the burial of a brutal man, Ozymandias remembers the moment he realized his ends were incommensurate with his means.  And though he recalls his despair in the fourth panel with resolve in the third, remembering the moment in which he decides what he must do brings him no joy:
 
-![6a00d8341c2df453ef0112791cf49028a4](images/comics/watchmen-4/6a00d8341c2df453ef0112791cf49028a4.jpg)\
+![6a00d8341c2df453ef0112791cf49028a4](images/comics/watchmen-4/6a00d8341c2df453ef0112791cf49028a4.jpg)\ 
 
 The scene-to-scene transition out of the flashback is a mirror image of the one that brought us in.  The memory of the moment he sternly turned to genocide causes a swell of unwanted emotion and his mask cracks.  Seems like juxtaposing the magnitude of the scheme he set in motion and the hardening of heart required to do so saddened him.  His eyes soften once deprived of the contrast the regal purple of his mask provided.  Devoid of the flushed conviction that drove him to this moment, the corners of his lips turn down.  The past is the past and cannot be undone.  Unless you happen to be Dr. Manhattan — about whom more momentarily.  (That odd-looking link allows you to [choose your own adventure](http://acephalous.typepad.com/acephalous/2009/03/dr-manhattan-as-a-figure-of-reader-of-alan-moores-watchmen.html).)  Now to the film.
 

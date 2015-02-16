@@ -4,9 +4,9 @@
 
 Given that I already related my attempt to make [the final day of my "Slow Horror" course memorable](http://www.lawyersgunsmoneyblog.com/2011/03/how-to-ruin-thirty-days-in-a-night-by-violating-the-dayenu-principle), it only makes sense to do the same for the "[Confessional Narratives](http://acephalous.typepad.com/acephalous/2011/01/confessional-narratives-syllabus.html)"  The final works we studied were the [print](http://www.amazon.com/exec/obidos/ASIN/1560974273/diesekoschmar-20) and [film](http://www.amazon.com/exec/obidos/ASIN/B00005T30L/diesekoschmar-20) versions of Daniel Clowes' *Ghost World*, both of which [I hate with a pre-critical vicerality](http://acephalous.typepad.com/acephalous/2010/05/daniel-clowes-is-not-per-his-insistence-one-of-those-comic-book-readers.html) that—to pat myself on the back for being responsible—doesn't prevent me from acknowledging their importance and teaching them anyway.  That said, I find the book far more unlikeable than the film.  Consider the scene in which Enid and Rebecca first meet the waiter they dub "Weird Al" in the novel:
 
-![Figure 01](images/film/ghost-world/01.jpg)\
+![Figure 01](images/film/ghost-world/01.jpg)\ 
 
-![Figure 02](images/film/ghost-world/02.jpg)\
+![Figure 02](images/film/ghost-world/02.jpg)\ 
 
 It's not that they mock the decor of a restaurant they patronized solely to patronize, but the manner in which they treat Allen.  Enid responds to his "Hi! My name is Allen" with "Hi, Al!"  If he had wanted to be called "Al," presumably he would have introduced himself as such.  Enid renames him on the spot, and without getting all pop-philosophical about the significance of the act of naming something, her behavior here is indicative of her general belief that she's superior to people who look and are employed like him.  But Rebecca's response is even more indecorous: the insult that had been implicit in Enid's renaming is explicit in Rebecca's question, "Can we call you 'Weird Al'?"  That she asks whether "we" can call him "Weird Al" is significant, because throughout the book she's only emboldened to behave in this manner when Enid initiates such encounters.  In short, then, Enid's culpable both for her own statement and for Rebecca's, because Enid's responsible for the dynamic that makes Rebecca feel perpetually, if not always consciously, egged-on.  
 
@@ -20,29 +20,29 @@ Of course, Clowes can only accomplish this little feat if Enid and Rebecca frame
 
 Now, consider the same scene in the film.  It opens with a pan-out from a close-up of a radio playing decidedly non-Fifties music to a medium shot of Rebecca and Enid seated in the booth:
 
-![Figure 03](images/film/ghost-world/03.jpg)\
+![Figure 03](images/film/ghost-world/03.jpg)\ 
 
-![Figure 04](images/film/ghost-world/04.jpg)\
+![Figure 04](images/film/ghost-world/04.jpg)\ 
 
 The purpose of the panning out from the radio is to force the audience to pay attention to the diegetic sound, but the decision's immediately rendered redundant by the dialogue, as Rebecca opens the conversation by asking "Who could forget this memorable hit from the Fifties, huh?"  If this were a comic panel, the word-picture relation would be [duo-specific](http://acephalous.typepad.com/.a/6a00d8341c2df453ef0147e1ae93c3970b), which if you remember your McCloud (or clicked on that link) is used primarily in [children's literature](http://www.pan-tex.net/usr/j/julie/30prep2.jpeg).  In addition to being redundant, then, it's also condescending, the equivalent of director Terry Zwigof insisting that his audience won't understand the importance of the sequence unless he does everything twice.  Zwigof then cuts to a point-of-view shot of an approaching Allan:
 
-![Figure 05](images/film/ghost-world/05.jpg)\
+![Figure 05](images/film/ghost-world/05.jpg)\ 
 
 You know it's a point-of-view shot because part of the booth is evident, but significantly, it's from Rebecca's point-of-view, and since Rebecca spots him first, when Zwigoff cuts back to the booth:
 
-![Figure 06](images/film/ghost-world/06.jpg)\
+![Figure 06](images/film/ghost-world/06.jpg)\ 
 
 It's Rebecca who gets what had been Enid's line in the book: "Check out that waiter's awesome 'Fifties' hair-do."  In a work as predicated on the dynamic between two characters as both the book and film of *Ghost World* are, switching who initiates a particular conversation is bound to have significant consequences, and it does: Rebecca becomes more disagreeable.  But the obverse is also true: Enid becomes more likeable, which is significant because very few people would be able to sympathize with her if she behaved in the film as she does in the book. \*  Given that the majority of the film is focalized through Enid's perspective, creating and sustaining a sympathetic identification with her is critical to the film's aesthetic and financial success.  Zwigof's staging of the remainder of the scene bears my point out.  When Allen walks up, he's not framed by the young woman, but occupies the entire frame of a medium close-up:
 
-![Figure 07](images/film/ghost-world/07.jpg)\
+![Figure 07](images/film/ghost-world/07.jpg)\ 
 
 The strong [frontality](http://classes.yale.edu/film-analysis/htmfiles/mise-en-scene.htm#54569) here—as well as the fact that he directly addresses the camera—would seem to indicate that Zwigof wants to create a bound between Allen and the audience.  Not including Enid and Rebecca in shot creates a distance between the three that continues when the camera reverses back to the booth:
 
-![Figure 08](images/film/ghost-world/08.jpg)\
+![Figure 08](images/film/ghost-world/08.jpg)\ 
 
 When Enid greets him as "Al" and Rebecca asks whether they can call him "Weird Al," the audience can no longer see his face.  That is, instead of the triangle in the comic that make it clear that they are insulting him to his face, in the film their insults land, such as it were, on an aproned ass.  When the camera cuts back Allen, it returns to the frontal medium close-up:
 
-![Figure 09](images/film/ghost-world/09.jpg)\
+![Figure 09](images/film/ghost-world/09.jpg)\ 
 
 Allen is being shot as a sympathetic—albeit emotionally unresponsive—character again, and Enid and Rebecca are not as formally connected to their insults as they were in when all three occupied the same panel and the pair were literally connected to their words by their speech bubbles.  In short, staging this as a series of reverse shots creates a disconnect between the pair and the object of their insults, which allows all three to remain more sympathetic.  The kicker?
 Zwigof ditches the "You loser!" line entirely. \*\*

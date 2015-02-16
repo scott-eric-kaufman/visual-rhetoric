@@ -10,15 +10,15 @@ Patrick Slaven, Kyler Kuehn, Carrie Shanafelt and Gary Farber all recommended *[
 
 Petersen's audience knows that these men are confined behind a brittle shell of metal and will miles below the sea, so the enclosed atmosphere of the film is implicit. But that's not enough. As I mentioned yesterday, audiences key in to conventions in ways that subvert their effectiveness. A director can put a person in a closed coffin, but because so many have done so previously, the effect is merely communicative. The simple fact of being entrapped comes across, but the sympathetic feeling of entrapment doesn't. *Das Boot* is different. It lacks any of the obviously constricted shots and opts instead for a directorial ethos of tight framing (much as I discussed in my [counterfactual ](http://acephalous.typepad.com/.a/6a00d8341c2df453ef016300050203970d-500wi)*[Bones](http://acephalous.typepad.com/.a/6a00d8341c2df453ef016300050203970d-500wi)* yesterday):
 
-![6a00d8341c2df453ef016300109762970d](images/themes/effectively-executed-claustrophobia/6a00d8341c2df453ef016300109762970d.jpg)\
+![6a00d8341c2df453ef016300109762970d](images/themes/effectively-executed-claustrophobia/6a00d8341c2df453ef016300109762970d.jpg)\ 
 
 That'd be a typical dinner shot. It lacks the ostentation of Reynolds in a coffin, but by framing this medium close-up as he did, Petersen's use of shallow focus indicates that there's little more to the room than what's seen here. Typically, shallow focus emphasizes a face (or faces) and blurs the unimportant background into a hazy nothing; here, however, the shallow focus reveals that the walls behind these folks abut them so closely that they can't be excluded from the shot. There's simply no way for them to be in focus and the walls around them not, which an audience will realize (even if it doesn't consciously understand) means that these men are very close to their walls. (Or vice versa.) It's not a "coffin shot," merely a medium close-up with a depth of field that reveals, in its entirety, how little there is to see. Stack a few hundred similar shots together and the claustrophobic intent of every director who's ever buried an actor for effect can actually be realized. Just to prove my point, here are some other shots from the film:
 
-![6a00d8341c2df453ef016761059e90970b](images/themes/effectively-executed-claustrophobia/6a00d8341c2df453ef016761059e90970b.jpg)\
+![6a00d8341c2df453ef016761059e90970b](images/themes/effectively-executed-claustrophobia/6a00d8341c2df453ef016761059e90970b.jpg)\ 
 
 That shot of the living quarters need not be perfectly centered in such a way as to create a frame whose composition is so damn mathematical as to be oppressive, but Petersen's got an agenda. Also:
 
-![6a00d8341c2df453ef01630010b84d970d](images/themes/effectively-executed-claustrophobia/6a00d8341c2df453ef01630010b84d970d.jpg)\
+![6a00d8341c2df453ef01630010b84d970d](images/themes/effectively-executed-claustrophobia/6a00d8341c2df453ef01630010b84d970d.jpg)\ 
 
 There are many ways to depict a man amongst his crew, but framing his head as Petersen has (in a close-up) and situating it in the composition against many other similarly framed heads limits the scope of the frame to this head and these other ones. The face, again, is in shallow focus and yet because every other head's within the depth of field the constricted effect is only heightened. Imagine watching a film composed thus for 209 minutes (if you spring for the director's cut): the knowledge of the predicament of the crew is augmented, visually and viscerally, by the manner in which Petersen frames them.
 

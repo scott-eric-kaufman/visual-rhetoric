@@ -8,19 +8,19 @@ As Todd VanDerWerff asked [in his recap of “Model,”](/tvclub/louie-backmodel
 
 Consider the infamous “gruesome discovery” from David Lynch’s *Blue Velvet*. Kyle MacLachlan’s Jeffrey walks through a field, stops to throw rocks at a shed, and then visits the hospital. On his way back, he returns to the field to throw rocks at a shed again when he notices something:
 
-![513492](images/tv/louie/513492.jpg)\
+![513492](images/tv/louie/513492.jpg)\ 
 
 Lynch uses an extreme long shot to provide a sense of the scene’s expansiveness and then immediately cuts to what seems to be an extreme close-up of a severed ear:
 
-![513493](images/tv/louie/513493.jpg)\
+![513493](images/tv/louie/513493.jpg)\ 
 
 The audience is forced to transition, in the space of a cut, from observing Jeffrey’s odd behavior to inhabiting Jeffrey’s mind as his hands clear brush around the ear. Lynch then rips the audience out of Jeffrey’s head to show his reaction in a medium close-up:
 
-![513494](images/tv/louie/513494.jpg)\
+![513494](images/tv/louie/513494.jpg)\ 
 
 Only to thrust the audience back into Jeffrey’s head with the next cut:
 
-![513495](images/tv/louie/513495.jpg)\
+![513495](images/tv/louie/513495.jpg)\ 
 
 It’s an even more extreme close-up, with the visuals mimicking Jeffrey’s horrified curiosity about his discovery. This scene is unsettling not just because of its subject matter but also because the audience is unsure what they’re witnessing here, or from whose perspective. It feels like a dream because Lynch is willing to shift perspectives—to cut between psychologically inflected close-ups, extreme close-ups, and conventional reaction shots.
 
@@ -28,23 +28,23 @@ This is not to say that Jeffrey only dreams he finds the ear—only that Lynch d
 
 Louis C.K.’s camerawork in “Back” is as deadpan as his delivery. He opens with a medium shot of himself in bed, asleep:
 
-![513496](images/tv/louie/513496.jpg)\
+![513496](images/tv/louie/513496.jpg)\ 
 
 He is turned away from the natural light streaming in the window on the right, as his entire being conspires to keep him in whatever dream he is currently having:
 
-![513497](images/tv/louie/513497.jpg)\
+![513497](images/tv/louie/513497.jpg)\ 
 
 C.K. then cuts to a medium close-up of his upper torso, with the camera aimed at the window to make a point a lesser director would’ve employed a lens-flare to communicate—it’s not just bright outside, it’s a malevolent brightness. And it has friends:
 
-![513498](images/tv/louie/513498.jpg)\
+![513498](images/tv/louie/513498.jpg)\ 
 
 Loud, noisy friends. At this point, the narrative is realistic, and the perspective is rational. Not only is the shot selection conventional, but it also remains consistent even as the narrative grows surreal. First, C.K. repeats the initial medium shot, only now it’s being invaded:
 
-![513499](images/tv/louie/513499.jpg)\
+![513499](images/tv/louie/513499.jpg)\ 
 
 Then he repeats the second shot, also now occupied:
 
-![513500](images/tv/louie/513500.jpg)\
+![513500](images/tv/louie/513500.jpg)\ 
 
 The bright light that had threatened his sleep has been replaced by a rowdy darkness created by men who can’t possibly be there. The camera communicates a psychological state, but the logic C.K. follows here isn’t predicated on the uncertainty of dreams so much as the tedium of depression.
 
@@ -52,15 +52,15 @@ Everything is the same visually, in terms of the shot selection, but the situati
 
 The long take in “So Did The Fat Lady” functions in a similar way—it replicates the feeling of entrapment that accompanies a depressive individual’s attempt to “connect” with others. It begins at 15:02 with a medium shot of the two walking:
 
-![513501](images/tv/louie/513501.jpg)\
+![513501](images/tv/louie/513501.jpg)\ 
 
 C.K. follows his alter ego and Sarah Baker’s character, Vanessa, as they walk along a jogging path. At first, it seems like this scene could end well—two people on a date, strolling by the banks of a body of a water. What could ruin this lovely afternoon?
 
-![513502](images/tv/louie/513502.jpg)\
+![513502](images/tv/louie/513502.jpg)\ 
 
 Well, [Louie could try to convince Vanessa that she isn’t fat](/article/fat-woman-talking-louie-starts-necessary-conversat-204504?utm_medium=RSS&amp;utm_campaign=feeds). And when he does, they both stop walking. The camera has no choice but to circle around them because it wants to keep moving even if they’d rather not. So move it does, circling him, pausing, then circling her as she expresses what it’s like to be “a fat girl.” As if the situation isn’t awkward enough, the medium shot is just long enough to allow others to enter the frame behind them:
 
-![513503](images/tv/louie/513503.jpg)\
+![513503](images/tv/louie/513503.jpg)\ 
 
 The out-of-focus joggers entering the frame after Vanessa blames Louie for not letting her admit that “it sucks to be a fat girl” is the kind of Freudian “condensing” one would expect to find in a dream, but here, in the middle of an increasingly uncomfortable take that neither Louie nor the audience can escape, it’s just another detail, and it’s not even in focus.
 As the scene progresses and Vanessa becomes more adamant, the camera tends to circle her instead of him, as if she’s more important. But she’s less of a person than a function of Louie’s unrelenting self-loathing. She’s everything he loves in theory and all he hates in practice—self-aware and incisive and interested in nothing more than cutting him down, which she does brilliantly.

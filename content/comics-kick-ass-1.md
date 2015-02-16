@@ -12,18 +12,18 @@ My feelings about Mark Millar (with [one notable exception](http://acephalous.ty
 
 As I've [already discussed his fascination with the word "cunt"](http://acephalous.typepad.com/acephalous/2010/03/on-the-moral-universe-of-mark-millar-which-makes-little-sense-but-frequently-explodes.html) and he's since named his magazine after the old printing pun
 
-![6a00d8341c2df453ef0133f5641721970b](images/comics/kick-ass-1/6a00d8341c2df453ef0133f5641721970b.jpg)\
+![6a00d8341c2df453ef0133f5641721970b](images/comics/kick-ass-1/6a00d8341c2df453ef0133f5641721970b.jpg)\ 
 
 so I think it goes without saying that Hit Girl is Millar indulging in a spot of gender-bending narcissism with pedophiliac overtones and, as such, is telling me things about himself I frankly don't want to know.  Think about it: Big Daddy and Hit Girl are clearly variations of Batman and Robin, itself [a relationship of questionable provenance](http://www.bilerico.com/2008/07/when_batman_was_gay.php), only Millar turns the 10-year-old proxy for Robin in a female version of an idealized vision of himself.  How is that not disturbing?  But I digress:
 
 His premise is that superheroes can't exist in a world constructed with something resembling a realist ethos, and in order to prove this he has John Romita, Jr. draw the reason why with unflinching brutality.  (This is because at our current historical moment, "realism" functions as a synonym for "gritty," but you already knew that.)  For example:
 
-![6a00d8341c2df453ef013488843a64970c](images/comics/kick-ass-1/6a00d8341c2df453ef013488843a64970c.jpg)\
+![6a00d8341c2df453ef013488843a64970c](images/comics/kick-ass-1/6a00d8341c2df453ef013488843a64970c.jpg)\ 
 
 In the real world, panels like this argue, a superhero would be stabbed and then hit by a car and then all the blood in his body would fly from his wounds like so many kicked-in teeth.  Such panels claim to be realist but are, in fact, hyper-stylized indulgences in violent juvenile fantasies ... which also happens to be a fairly accurate assessment of the entire book.
 All that said, you might be surprised to learn that I actually *liked* the film.  Why?  Compare the above to its on-screen equivalent:
 
-![6a00d8341c2df453ef0133f5643e5e970b](images/comics/kick-ass-1/6a00d8341c2df453ef0133f5643e5e970b.jpg)\
+![6a00d8341c2df453ef0133f5643e5e970b](images/comics/kick-ass-1/6a00d8341c2df453ef0133f5643e5e970b.jpg)\ 
 
 Notice a difference?  The first and most obvious one is that the amount of blood on the pavement approximates the amount someone stabbed in the stomach would bleed.  The second and more important difference is that Matthew Vaughn shoots the aftermath of the accident from the side in a medium long shot, whereas Millar and Romita, Jr. frame the shot from above in a manner that fetishizes the effect of violence on the human body.  To put it differently:
 

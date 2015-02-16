@@ -12,25 +12,25 @@ Single-camera comedies like [*Arrested Development*](http://www.avclub.com/tv/ar
 
 Neill Blomkamp’s [*Elysium*](http://www.avclub.com/review/elysium-101238) accomplishes this by embracing distinct styles for its two central settings: the poor-inherited Earth and the Space Hamptons. For example, when Matt Damon’s character Max walks to work early in the film, here is how the camera initially frames his head...
 
-![501294](images/film/elysium/501294.jpg)\
+![501294](images/film/elysium/501294.jpg)\ 
 
-![501295](images/film/elysium/501295.jpg)\
+![501295](images/film/elysium/501295.jpg)\ 
 
 There’s nothing inherently realistic about Damon’s head-bobbing, but it does create a disorderly impression: Damon is an uncooperative subject or the terrain is too chaotic for the camera to follow him smoothly or a combination of the two, but it doesn’t matter, because the overall effect communicates an unruliness.
 
 When Blomkamp tracks Jodi Foster’s Delacourt walking toward the camera on Deep Space 1 Percent, however...
 
-![501296](images/film/elysium/501296.jpg)\
+![501296](images/film/elysium/501296.jpg)\ 
 
-![501297](images/film/elysium/501297.jpg)\
+![501297](images/film/elysium/501297.jpg)\ 
 
 Its orderliness seems unreal, which is exactly the impression Blomkamp hoped to create: Foster’s character controls a wealthy society whose power is maintained by an inhuman and inhumane disciplinary apparatus. Shots of the Elysium satellite seem *too* perfect, as if they are the product of a previous generation of computer-generated effects. Consider the first shot of the station itself...
 
-![501298](images/film/elysium/501298.jpg)\
+![501298](images/film/elysium/501298.jpg)\ 
 
 Blomkamp deliberately echoes the most iconic shot of a space station on this side of the Alderaan system...
 
-![501299](images/film/elysium/501299.jpg)\
+![501299](images/film/elysium/501299.jpg)\ 
 
 The camera steadily pans to an image of the future that already feels old, which is only fitting, given that this is a CGI homage to an effect that’s merely “special.” The ostensible perfection of the Elysium station seems both obsolete and fundamentally wrong, which is also fitting, given that it’s essentially an orbital uncanny valley...
 

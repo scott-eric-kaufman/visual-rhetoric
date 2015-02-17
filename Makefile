@@ -35,3 +35,9 @@ tex:
 		-o VisualRhetoric.tex \
 		$(CONTENT)
 
+upload:
+	@echo " --> Uploading EPUB"
+	./scripts/drive-linux-amd64 -c .gdrive upload -p 0BwbNGSC-B22KfnB4X1JscGFlUV8wa0d4eUJhT2NyQ1NjeDFTSXNYR0ZiRlgtaUY4eUdNcHc -f VisualRhetoric.epub
+	@echo " --> Uploading PDF"
+	./scripts/drive-linux-amd64 -c .gdrive upload -p 0BwbNGSC-B22KfnB4X1JscGFlUV8wa0d4eUJhT2NyQ1NjeDFTSXNYR0ZiRlgtaUY4eUdNcHc -f VisualRhetoric.pdf
+

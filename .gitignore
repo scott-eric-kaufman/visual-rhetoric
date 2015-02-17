@@ -1,5 +1,6 @@
 *.epub
 *.pdf
 *.html
+.gdrive
 scripts/node_modules
 VisualRhetoric.*

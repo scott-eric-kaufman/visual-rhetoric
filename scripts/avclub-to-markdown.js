@@ -48,6 +48,7 @@ var sanitizeReplacements = {
 	'<div[^d]+dava-image-id="([^"]+)"> </div>' : '\n\n![$1]($1)\\ \n\n',
 	'<div data-type="image" contenteditable="false" class="onion-image image inline size-big crop-original" data-image-id="([0-9]+)" data-size="big" data-crop="original"> <div>' : '\n\n![$1](images/film//$1.jpg)\\ \n\n',
 	'<div data-type="image" class="[a-z\-\ 0-9]+" data-image-id="([0-9]+)" data-size="big" data-crop="original">': '\n\n![$1](images/film//$1.jpg)\\ \n\n',
+  '<div data-type="image" class="[a-z\-\ 0-9]+" data-image-id="([0-9]+)" data-size="big" data-crop="original" data-format="([a-z]+)" contenteditable="false">': '\n\n![$1](images/film//$1.$2)\\ \n\n',
 	'<p.*>' : '\n',
 	'<span.*>' : '',
 	'</span>' : '',

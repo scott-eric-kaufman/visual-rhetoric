@@ -12,6 +12,8 @@ If Person A says "I love you" in a medium close-up and the director cuts to a me
 
 Which is my own shorthand way of saying that the longer a take is, the more burdened the audience—especially if its members were raised on the conventions of contemporary American cinema—is by the task of interpretation. This becomes apparent as soon as you try to describe what the director of the above hypothetical scene meant to communicate versus what Scorsese wanted the audience to understand about Henry Hill in the Copacabana shot in *Goodfellas*:
 
+![OJEEVtqXdK8](images/film/birdman/OJEEVtqXdK8.jpg)\ 
+
 First, Hill is seen tipping the man who opens the back doors for him. Then he greets Gino and tells a couple necking in the hall that "every time I come here, every time you two" are making out. He then demonstrates that he is the kind of person with all-access, familiar with scenes of Asian men arguing in kitchens, as well as beloved by the white staffers and chefs in the back. When he finally makes it into the dining room proper, he gets his own table pulled out of nowhere, again underlying his power—need I continue?
 
 The shot does but I think the point is made—Scorsese allows these various impressions of Hill to gradually accrue. The audience is as overwhelmed as its proxy, Karen, who has been whisked into the club and off her feet. The impression of Hill’s importance is a function of the length of the take—partly because Hill is the central character in it. The mere fact that Scorsese devotes this much uncut screen time to a single character impresses Hill’s importance on the audience. We don’t need to cut to the reaction of Person B, because as Hill wends into the restaurant because there is no Person B of sufficient importance to stop the shot for.

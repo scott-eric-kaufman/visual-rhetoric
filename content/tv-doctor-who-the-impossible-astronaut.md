@@ -8,29 +8,29 @@ First let me tell you about how the sausage is made: I watch a film or an episod
 
 Judging by the number of notebooks I've burned through since Christmas, the empirical answer would be that I don't know a damn thing. That I'm constantly confused by everything in the world and have begun to hoard the finer points of other peoples' narratives on the off chance they or I forget them. The obvious stuff is obvious and mentioned just in case its obviousness becomes important subsequently. Consider the opening sequence of the premier episode of the Sixth Season of *Doctor Who* ("The Impossible Astronaut"), in which director Toby Haynes begins by showing the audience some paint:
 
-![6a00d8341c2df453ef0168e8758b3f970c](images/tv/doctor-who-the-impossible-astronaut/6a00d8341c2df453ef0168e8758b3f970c.jpg)\ 
+![6a00d8341c2df453ef0168e8758b3f970c](images/tv/doctor-who/the-impossible-astronaut/6a00d8341c2df453ef0168e8758b3f970c.jpg)\ 
 
 [Paint can be important in this series](http://www.lawyersgunsmoneyblog.com/2012/02/vincent-and-the-doctor-together-alone), I think to myself, so I scribble "H. op w/ c-u paint & brushes." (That's "Haynes opens with a close-up of paint and brushes" for those who can't read my ideoletic shorthand.) I pause here because I want to remember what could be at play. Clearly there is a reason Haynes introduces the Sixth Season via the artistic tools the audience most closely associates with Vincent Van Gogh, but given that Gogh met his beastly death shortly after drawing an exploding TARDIS in the penultimate episode of Season Five ("The Pandorica Opens"), this likely has nothing to do with him. Then it occurs to me that Haynes directed and Steven Moffat wrote "The Pandorica Opens," "The Big Bang," and "The Impossible Astronaut," so the presence of meaningful continuity–even if that's not what I spy here–is more likely than not. I take a note to remind myself to take similar notes later and move on to the next frame:
 
-![6a00d8341c2df453ef016763744ad6970b](images/tv/doctor-who-the-impossible-astronaut/6a00d8341c2df453ef016763744ad6970b.jpg)\ 
+![6a00d8341c2df453ef016763744ad6970b](images/tv/doctor-who/the-impossible-astronaut/6a00d8341c2df453ef016763744ad6970b.jpg)\ 
 
 Look who was wrong? That painting there has as much to do with Vincent's narrative as his style. It's the Doctor, which I could've imagined Vincent getting around to, but it's the Doctor *in the nude*. There's nothing wrong with a nude painting of a man–or wouldn't be a few decades later after Charles II dies and England rejoices by stripping off the gloom of their imported Flemish masters and then their clothes. (To be followed quickly by a intense desire to live in a world in which flat surfaces and solid colors were anathema.) Point being:
 
 Mathilda's painting of the Doctor is too Rococo for its time–because it's not of its time. He's encouraged her to paint not in the departing style of the Flemish Masters, nor in the coming style of French Baroque or endemic Neoclassicism, and why would he? He doesn't need live time in order, and Mathilda, his companion at the moment, is herself learning a little morality lesson about the knowledge the Time Lord grants: more often than not the world isn't ready for it. Not that she minds:
 
-![6a00d8341c2df453ef016302804252970d](images/tv/doctor-who-the-impossible-astronaut/6a00d8341c2df453ef016302804252970d.jpg)\ 
+![6a00d8341c2df453ef016302804252970d](images/tv/doctor-who/the-impossible-astronaut/6a00d8341c2df453ef016302804252970d.jpg)\ 
 
 She looks quite please with her anachronistic creation. Her benefactor seems less so:
 
-![6a00d8341c2df453ef016302804354970d](images/tv/doctor-who-the-impossible-astronaut/6a00d8341c2df453ef016302804354970d.jpg)\ 
+![6a00d8341c2df453ef016302804354970d](images/tv/doctor-who/the-impossible-astronaut/6a00d8341c2df453ef016302804354970d.jpg)\ 
 
 Note that even though the shots of Mathilda and King Charles II are both [medium long shots](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#48044), she and the image of her Doctor are both bathed in natural light, as if they belong to the world beyond the window's grilles. King Charles II and his men are exactly where they ought to be: the King in the middle and lackeys at both flanks. They have come for the Doctor for reasons unknown–but their tone implies that whatever those reasons may be, the Doctor needs a grand entrance and the sooner the better.
 
-![6a00d8341c2df453ef016302805551970d](images/tv/doctor-who-the-impossible-astronaut/6a00d8341c2df453ef016302805551970d.jpg)\ 
+![6a00d8341c2df453ef016302805551970d](images/tv/doctor-who/the-impossible-astronaut/6a00d8341c2df453ef016302805551970d.jpg)\ 
 
 Perhaps not *that* soon. Appearing from beneath the swaths of Mathilda's skirts suggests that King Charles's haste and *j'accuse*-face may be warranted. The high [angle of framing](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#48004) here is completely warranted. The Doctor may not be physically powerless, but his given that his moral code only seems to allow him to significantly alter history when [its in need of a significant alteration](http://www.lawyersgunsmoneyblog.com/2012/02/time-can-be-written-and-will-be-try-and-keep-up), the consequence of him having lost his social stature which much more likely lead to lots and lots of running. Which is exactly what Haynes has him do in the opening bits–and they are comedic "bits" in no uncertain terms–they establish both that he's no longer traveling with Amy and Rory but that he's no longer done with them (even when they fail to see him):
 
-![6a00d8341c2df453ef016302807a2d970d](images/tv/doctor-who-the-impossible-astronaut/6a00d8341c2df453ef016302807a2d970d.jpg)\ 
+![6a00d8341c2df453ef016302807a2d970d](images/tv/doctor-who/the-impossible-astronaut/6a00d8341c2df453ef016302807a2d970d.jpg)\ 
 
 That's Rory's head you can't see failing to notice the Doctor trying to catch his attention. As I started watching these first few minutes–and keeping in mind I've seen the entire Sixth Season–I found it difficult not to see these as the Season's narrative arc written small. Bear with me:
 

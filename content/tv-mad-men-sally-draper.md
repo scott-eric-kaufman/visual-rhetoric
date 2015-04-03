@@ -18,13 +18,13 @@ In the first season finale, “The Wheel,” Don embarks on what is considered o
 
 Here is a man who loathes his wife, nonetheless using family photographs to manipulate the emotions of representatives from a camera company. “Nostalgia,” he tells them, “is delicate, but potent.” So potent is his pitch that as he sells this false narrative of his life, he finds himself emotionally moved by the power of his own rhetoric. He is that impressive of a pitch man. Suddenly the superficial “itch” that merely requires “a kind of calamine lotion” to salve morphs into something more awful:
 
-![mm01](images/tv/mad-men-sally-draper/mm01.jpg)\ 
+![mm01](images/tv/mad-men/sally-draper/mm01.jpg)\ 
 
-![mm02](images/tv/mad-men-sally-draper/mm02.jpg)\ 
+![mm02](images/tv/mad-men/sally-draper/mm02.jpg)\ 
 
-![mm03](images/tv/mad-men-sally-draper/mm03.jpg)\ 
+![mm03](images/tv/mad-men/sally-draper/mm03.jpg)\ 
 
-![mm04](images/tv/mad-men-sally-draper/mm04.jpg)\ 
+![mm04](images/tv/mad-men/sally-draper/mm04.jpg)\ 
 
 This sequence of reverse shots – in which, traditionally, the camera “flips” from one person to another both to track a conversation and register the response of each character to what the other is saying – alternate from Don's head in a static medium close-up to an extreme close-up, shot from Don's first-person perspective, of his family photographs that are framed with all the sloppiness of life. These reverse shots, then, are unusual because the conversation they are tracking is between Draper and his memory of himself. But what is most striking is the juxtaposition of Don's dialogue with what’s shown onscreen in that second frame. It is entirely unclear what his children represent to him as he delivers this pitch. Are they the painful feeling of nostalgia – or the old wound itself? 
 
@@ -42,7 +42,7 @@ Consider Sally's relationship with her grandfather, Eugene (the father of her mo
 
 The problem of generational conflict is brought to the foreground in the episode “Guy Walks Into an Advertising Agency” – which comes two episodes after Eugene's passing, and one after the birth of his namesake, Sally’s baby brother, Gene – in which Don walks into Sally's bedroom only to the find the light still turned on.
 
-![mm05](images/tv/mad-men-sally-draper/mm05.jpg)\ 
+![mm05](images/tv/mad-men/sally-draper/mm05.jpg)\ 
 
 “Daddy, no” Sally says, as he switches it off. “I'm afraid of what's going to happen when you turn off the lights.” 
 
@@ -50,15 +50,15 @@ These borderline inappropriate bedtime conversations between Don and Sally are c
 
 He promises to buy her a nightlight. Which he does:
 
-![mm06](images/tv/mad-men-sally-draper/mm06.jpg)\ 
+![mm06](images/tv/mad-men/sally-draper/mm06.jpg)\ 
 
 To no great effect, as she is still cowering in fear. Betty also misreads the situation, thinking Sally is merely jealous of the attention being received by baby Gene. Thus, Betty also tries to buy her daughter some security via a Barbie doll she claims is from the baby. Sally wants no part of it and tosses the doll out the window, where it is found by Don when he returns home from work. Thinking – again incorrectly – that she must have dropped it while playing, he returns it to her bedroom:
 
-![mm07](images/tv/mad-men-sally-draper/mm07.jpg)\ 
+![mm07](images/tv/mad-men/sally-draper/mm07.jpg)\ 
 
 Director Lesli Linka Glatter reverses to a shot of Sally and the nightlight identical to the one above, except this time the girl is actually asleep – and thus the manner in which Don has placed the Barbie doll means that when she awakens it will be staring directly at her:
 
-![mm08](images/tv/mad-men-sally-draper/mm08.jpg)\ 
+![mm08](images/tv/mad-men/sally-draper/mm08.jpg)\ 
 
 Little wonder, then, that she screams. Don rushes in to comfort her, Betty right behind him, cradling a wailing baby Gene. “Get him out!” Sally screams. “I don't even know what to say,” Betty says before storming out. 
 
@@ -78,15 +78,15 @@ From an early age, then, Sally knows everything falls apart, a point only driven
 
 Sally is much better positioned to take advantage of cultural and social progress than her father. But progress, the show insists, won’t be easy. Nostalgia for invented pasts lingers, and ghosts can be made to appear at any moment – as one of the opening scenes of “A Little Kiss,” the fifth season premiere, makes plain. The scene is a mirror image of the ones discussed above, beginning with Sally asleep in bed, sans nightlight:
 
-![mm09](images/tv/mad-men-sally-draper/mm09.jpg)\ 
+![mm09](images/tv/mad-men/sally-draper/mm09.jpg)\ 
 
 But instead of Don coming to her because he sees her nightlight on or hears her scream, she wanders out of the strange room and into an unfamiliar hallway in search of a bathroom:
 
-![mm10](images/tv/mad-men-sally-draper/mm10.jpg)\ 
+![mm10](images/tv/mad-men/sally-draper/mm10.jpg)\ 
 
 Sally is but a small figure in a large hallway, and the detritus in the foreground is visual evidence of the unsettledness of this space. When she rattles the handle at the door at the hallway's end, she is met by her father:
 
-![mm11](images/tv/mad-men-sally-draper/mm11.jpg)\ 
+![mm11](images/tv/mad-men/sally-draper/mm11.jpg)\ 
 
 As in the earlier episode, this conversation’s stakes are established while Don occupies a doorway — neither in the room nor out of it, merely lingering in between. Doorways have a special history in film because they are visual representatives of social processes like inclusion and exclusion. The final scene from The Godfather, where one character is literally shut out of a space she cannot occupy, is the most famous example:
 
@@ -95,7 +95,7 @@ As in the earlier episode, this conversation’s stakes are established while Do
 
 But in these scenes with Don and Sally, he doesn't invite her in, and she never asks him to step outside. They just stand there, feet planted firmly on either side of the threshold as they try to create the kind of father-daughter connections they desire but are incapable of bringing into being. In what is a rare moment for the show, director Jennifer Getzinger hammers this disconnect home by going inside Sally's head to show the audience exactly what she is looking at:
 
-![mm12](images/tv/mad-men-sally-draper/mm12.jpg)\ 
+![mm12](images/tv/mad-men/sally-draper/mm12.jpg)\ 
 
 That she's staring at the small of her stepmother's back and the curve of her hips is significant. Megan, after all, is in that bed because of the rise of second-wave feminism and the sexual revolution. Don can only profit from these social developments and never truly understand them – as his eventually crumbled marriage to Megan will amply demonstrate. Or, put another way, he can purchase an apartment in which he can try to escape history by marrying a modern woman, but unlike his daughter, he can never grow up in one. 
 
@@ -111,21 +111,21 @@ On a more basic narrative level, Mad Men cannot be a show “about” Don Draper
 
 The scene begins with a series of three-shots:
 
-![mm13](images/tv/mad-men-sally-draper/mm13.jpg)\ 
+![mm13](images/tv/mad-men/sally-draper/mm13.jpg)\ 
 
 And one-shots:
 
-![mm14](images/tv/mad-men-sally-draper/mm14.jpg)\ 
+![mm14](images/tv/mad-men/sally-draper/mm14.jpg)\ 
 
 The distance between father and children is being replicated by director Weiner's decision to shoot them as separate entities, at least at the beginning of the scene. But just before the episode cuts to black, Weiner uses a two-shot to emphasize the connection between these two particular characters:
 
-![mm15](images/tv/mad-men-sally-draper/mm15.jpg)\ 
+![mm15](images/tv/mad-men/sally-draper/mm15.jpg)\ 
 
-![mm16](images/tv/mad-men-sally-draper/mm16.jpg)\ 
+![mm16](images/tv/mad-men/sally-draper/mm16.jpg)\ 
 
-![mm17](images/tv/mad-men-sally-draper/mm17.jpg)\ 
+![mm17](images/tv/mad-men/sally-draper/mm17.jpg)\ 
 
-![mm18](images/tv/mad-men-sally-draper/mm18.jpg)\ 
+![mm18](images/tv/mad-men/sally-draper/mm18.jpg)\ 
 
 The rhythm of these edits is quick and conversational, as if these glances constitute a dialogue being tossed back and forth. And most significantly, the final image is not of Sally staring up in wonder at who Don was, but Don looking down at her in worry about who she will become. “Don Draper” had to invent himself, but that work was done by the time the series began. 
 

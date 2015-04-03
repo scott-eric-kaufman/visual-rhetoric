@@ -8,21 +8,21 @@ I've just now finally caught up with [*Breaking Bad*](http://www.amazon.com/exec
 A high school chemistry teacher learns he has cancer. He can't afford to pay for the treatment. What will he do? He'll make meth. How will inserting a tidy high school teacher into the seedy world of meth production and dealing change this man's character? The show's spent five seasons answering that question, and the answer, as is always the case with naturalist narratives, is astoundingly unpleasant. If you win the lottery, you kill your wife before dying alone in the desert cuffed to a stranger. If you win the cancer lottery, you can't afford treatment and estrange your wife such that she's counting down the days until your cancer can mount a comeback. In short:
 There is no good here. But there's no realism either. Naturalist narratives are necessarily and aggressively pessimistic. When presented with a choice between a creating a disturbing tableau and presenting the likely consequences of a particular course of actions, naturalist narratives opt for:
 
-![6a00d8341c2df453ef0177443f019e970d](images/tv/breaking-bad-buyout-1/6a00d8341c2df453ef0177443f019e970d.jpg)\ 
+![6a00d8341c2df453ef0177443f019e970d](images/tv/breaking-bad/buyout-1/6a00d8341c2df453ef0177443f019e970d.jpg)\ 
 
 Without giving away too much game, that's an image of a man who's just had half his brain blown into a cavity *and he's fixing his tie*. Is he about to die? Of course he is. The life expectancy of people in his situation is dire beyond the telling. But it's a powerful image of a man who risked everything with composure and is determined to die as subdued and dignified as he lived. Can a man actually take a pipe-bomb to the face and ablute himself? *Of course not*. Then why do people insist that *Breaking Bad* is a realistic portrayal of the perils of the methamphetamine trade? Because of scenes like what I'll call "The Story of Jesse and the Beans."
 
 You'll remember that I [praised *Louie* for its commitment to the two shot](http://www.lawyersgunsmoneyblog.com/2012/07/walking-and-talking-with-louie-and-liz). The two shot is one that has two people in the frame. (Can you guess what a three shot is?) The purpose of a two shot is create a connection between the characters through the process of accumulation. If you include two subjects in the same frame for an inordinate amount of screen-time the audience will consider them partnered regardless of whatever their actual relationship is. [Playing against this instinct is why Bergman films create such discomfort](acephalous.typepad.com/acephalous/2012/02/doctor-who-vincent-and-the-doctor.html).  The same logic appears in *Breaking Bad*, except the sequences aren't nearly so staged as Bergman's. A typical conversation on *Breaking Bad* isn't a two shot. It looks like "Walter, what do you have to say?"
 
-![6a00d8341c2df453ef017c31617a04970b](images/tv/breaking-bad-buyout-1/6a00d8341c2df453ef017c31617a04970b.png)\ 
+![6a00d8341c2df453ef017c31617a04970b](images/tv/breaking-bad/buyout-1/6a00d8341c2df453ef017c31617a04970b.png)\ 
 
 And "Jesse, how do you feel about that?"
 
-![6a00d8341c2df453ef0177443f1132970d](images/tv/breaking-bad-buyout-1/6a00d8341c2df453ef0177443f1132970d.png)\ 
+![6a00d8341c2df453ef0177443f1132970d](images/tv/breaking-bad/buyout-1/6a00d8341c2df453ef0177443f1132970d.png)\ 
 
 Their psychological and sociological differences are accentuated by filming them in a series of perpetual shot and reverse shots. They don't share the frame because they're not friends and barely even co-workers. Which brings us to the scene in which Walter invites Jesse over for dinner *with his wife.* The sudden shift to the two and three shots is glaring because it's painfully oblique to the status of their current relationships. So:
 
-![6a00d8341c2df453ef017c31617d15970b](images/tv/breaking-bad-buyout-1/6a00d8341c2df453ef017c31617d15970b.png)\ 
+![6a00d8341c2df453ef017c31617d15970b](images/tv/breaking-bad/buyout-1/6a00d8341c2df453ef017c31617d15970b.png)\ 
 
 "The Story of Jesse and the Beans" opens with a half-empty long shot. (Just compare it to [a very similar scene in *Kick-Ass*](http://acephalous.typepad.com/acephalous/2010/11/kick-ass-millar-.html).) All three half-occupy the bottom half of frame that's fronted by an empty chair. Moreover, the dominant diegetic light source pulls our eyes up to the chandelier, which means that when we search the frame for meaning we're incredibly aware of all the empty unlit space in the top half of the frame. These are three diminished people sharing a table with Elijah.
 

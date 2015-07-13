@@ -16,7 +16,7 @@ fi
 B=images/${SECTION}/${SLUG}
 
 mkdir -p $B
-cat content/$SECTION-$SLUG.md | grep -iE '^!\[' | cut -d'[' -f2 | cut -d']' -f1 | while read X; do
+cat content/$SECTION/$SLUG.md | grep -iE '^!\[' | cut -d'[' -f2 | cut -d']' -f1 | while read X; do
 	Y=$( echo $X | cut -c1-4 )
 	Z=$( echo $X | cut -c5-6 )
 	wget -O $B/$X.jpg http://i.onionstatic.com/avclub/$Y/$Z/original/640.jpg

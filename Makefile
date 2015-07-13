@@ -2,10 +2,10 @@ all: clean epub pdf
 
 CONTENT := \
 		content/000-meta.yaml \
-		content/film-*.md \
-		content/tv-*.md \
-		content/comics-*.md \
-		content/themes-*.md
+		content/film/*.md \
+		content/tv/*.md \
+		content/comics/*.md \
+		content/themes/*.md
 
 clean:
 	rm -f VisualRhetoric.*

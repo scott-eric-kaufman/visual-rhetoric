@@ -1,4 +1,4 @@
 # VISUAL RHETORIC
 
-E-book consisting of the "Visual Rhetoric" series by Scott Eric Kaufman.
+![Visual Rhetoric](images/visual-rhetoric.jpg)
 

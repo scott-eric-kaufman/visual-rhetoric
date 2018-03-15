@@ -12,7 +12,7 @@ If Person A says "I love you" in a medium close-up and the director cuts to a me
 
 Which is my own shorthand way of saying that the longer a take is, the more burdened the audience—especially if its members were raised on the conventions of contemporary American cinema—is by the task of interpretation. This becomes apparent as soon as you try to describe what the director of the above hypothetical scene meant to communicate versus what Scorsese wanted the audience to understand about Henry Hill in the Copacabana shot in *Goodfellas*:
 
-![OJEEVtqXdK8](images/film/birdman/OJEEVtqXdK8.jpg)\ 
+![OJEEVtqXdK8](../../images/film/birdman/OJEEVtqXdK8.jpg)\ 
 
 First, Hill is seen tipping the man who opens the back doors for him. Then he greets Gino and tells a couple necking in the hall that "every time I come here, every time you two" are making out. He then demonstrates that he is the kind of person with all-access, familiar with scenes of Asian men arguing in kitchens, as well as beloved by the white staffers and chefs in the back. When he finally makes it into the dining room proper, he gets his own table pulled out of nowhere, again underlying his power—need I continue?
 
@@ -24,12 +24,12 @@ The long take also allows directors to use the standard magician’s ruse of hav
 
 Which is why it’s interesting that the opening shot of *Birdman*—before the ASL has even been established—consists of Riggan (Michael Keaton) performing the oldest trick in the magician’s handbook: [levitation](https://www.youtube.com/watch?v=ZwvYkRzpq4g).
 
-![534980](images/film/birdman/534980.jpg)\ 
+![534980](../../images/film/birdman/534980.jpg)\ 
 
 Since Riggan is hearing the voice he used 20 years ago while playing the Birdman character, the scene suggests that he either possesses the powers of the heroic alter-ego currently haunting him, or he is experiencing a psychotic break that has him hearing voices and believes, mistakenly, that he is actually levitating. 
 As the [illusory single take](http://www.davidbordwell.net/blog/2015/02/23/birdman-following-riggans-orders/) progresses, Riggan’s psychotic break seems to become increasingly apparent. It also appears that Gonzalez Iñárritu is allowing the non-diegetic "Birdman" voice inside Riggan’s head to infiltrate a film that is otherwise, thanks to its ASL, oppressively realistic. And then:
 
-![534981](images/film/birdman/534981.jpg)\ 
+![534981](../../images/film/birdman/534981.jpg)\ 
 
 This long take might be a bit of a ruse by Gonzalez Iñárritu, designed to convince the audience that Riggan isn’t having a psychotic break, but actually has the powers of the character he played—which leaves the viewers stranded at the same interpretive crossroads they were at when the film began.
 
@@ -39,7 +39,7 @@ Because the film’s central conceit is that it was shot in a single long take, 
 
 Film can be deceptive this way—anyone who tells you they know what is "really" going on as *[Blow-Up](http://www.avclub.com/review/blow-up-11550)* ends [is a liar](http://acephalous.typepad.com/acephalous/2011/01/the-disturbing-wrongness-of-antonionis-blowup.html)—but in *Birdman*'s case, Gonzalez Iñárritu’s decision to shoot it as a long take magnifies that difficulty. By the time the audience is confronted by a scene like the one pictured below, it has become nearly impossible to determine what relation the image on the screen bears to reality.
 
-![534982](images/film/birdman/534982.jpg)\ 
+![534982](../../images/film/birdman/534982.jpg)\ 
 
 However, because of the long take and the intellectual energy required to keep up, everyone who has seen the film will have a strong opinion about interpretation of this scene’s reality: They will say that anyone who disagrees with them or their interpretation of the film’s final moments is not merely wrong, but has missed the point entirely.
 

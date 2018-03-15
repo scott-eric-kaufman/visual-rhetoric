@@ -4,11 +4,11 @@
 
 Vance and I have been back-channeling about *Watchmen* this past week.  It occurs to me that there's no sense in wasting my brilliant thoughts on an audience of one (!?!) when I could be sharing them with all the world.  Vance agreed.  Our first quibble concerns the look of Dave Gibbon's panels.  Vance insists the panels looked dated.  He's not wrong.  But before we discuss some of his limitations, we should attend to Gibbons' strength: layout.  Consider these panels again:
 
-![6a00d8341c2df453ef01116885f501970c](images/comics/watchmen-2/6a00d8341c2df453ef01116885f501970c.jpg)\ 
+![6a00d8341c2df453ef01116885f501970c](../../images/comics/watchmen-2/6a00d8341c2df453ef01116885f501970c.jpg)\ 
 
 Gibbons purposely centers the first panel on nothing in order to force the reader to search for the photograph.  Your eyes gravitate to the center.  Nothing there.  So you move them to the portion of the panel which contains actual information: up and to the right.  Gibbons draws your attention into the center panel.  The strong version of this argument would be that he accomplishes this by aligning the photograph such that your eye is drawn from the center of the panel, through the photograph, then to the text at the top of the center panel like so:
 
-![6a00d8341c2df453ef011278fb13a428a4](images/comics/watchmen-2/6a00d8341c2df453ef011278fb13a428a4.jpg)\ 
+![6a00d8341c2df453ef011278fb13a428a4](../../images/comics/watchmen-2/6a00d8341c2df453ef011278fb13a428a4.jpg)\ 
 
 The weak version would claim that Gibbons does this through color.  The display itself almost functions like a purple arrow (minus the stalk) pointing at the predominantly purple center panel.  The blue of Manhattan's jacket would then perform a similar bridging function from the second panel to the third.  Note that he also disconnects Manhattan from himself.  By centering the center panel on her and the right panel on him, Gibbons puts space (literally) between the man in the picture and the god on Mars.  The repetition of the smooth line of Manhattan's right shoulder in both panels makes it seem as if the image skips because someone removed a few frames from the reel.  In an issue in which nostalgia is achieved by moving through time and *re*- or *pre*-living an event (from the perspective of the narrative present), this slight technical success unobtrusively reinforces the larger theme.  
 

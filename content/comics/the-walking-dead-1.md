@@ -4,11 +4,11 @@
 
 I'm transitioning from teaching film to comics in my unfortunately named ["Slow Horror" course](http://acephalous.typepad.com/acephalous/2011/01/slow-horror-syllabus.html) tomorrow and so I'm preparing to introduce my students to comic conventions using Robert Kirkman's *The Walking Dead*.  Kirkman's wordiness works to my advantage, as [with duo-specific word-picture relations](http://acephalous.typepad.com/.a/6a00d8341c2df453ef0147e1ae93c3970b):
 
-![6a00d8341c2df453ef0147e1ae946e970b](images/comics/the-walking-dead-1/6a00d8341c2df453ef0147e1ae946e970b.jpg)\ 
+![6a00d8341c2df453ef0147e1ae946e970b](../../images/comics/the-walking-dead-1/6a00d8341c2df453ef0147e1ae946e970b.jpg)\ 
 
 Kirkman didn't need to inform the reader that Glenn returned with toilet paper because the paper is clearly visible.  Because the characters are constantly carrying on, examples of them pointing out the obvious abound.  The same applies for [interdependent word-picture relations](http://acephalous.typepad.com/.a/6a00d8341c2df453ef0147e1aea1cb970b):
 
-![6a00d8341c2df453ef0147e1ae9bb2970b](images/comics/the-walking-dead-1/6a00d8341c2df453ef0147e1ae9bb2970b.jpg)\ 
+![6a00d8341c2df453ef0147e1ae9bb2970b](../../images/comics/the-walking-dead-1/6a00d8341c2df453ef0147e1ae9bb2970b.jpg)\ 
 
 Notice the difference between the examples McCloud used at the link and Kirkman and penciller Tony Moore's panel?  The examples use textual elements in a variety ways—be it thought balloons or captioned narration—but the Kirkman and Moore panel only uses them as a means for delivering direct dialogue.  It wasn't until I wrote the previous sentence that I realized the same might be true for the entire run of *The Walking Dead.* After I flipped through the first few issues to confirm my suspicions, I thought about why he might have chosen to eschew one of the formal properties of comic grammar that differentiates it from televisual media: natural interiority.
 

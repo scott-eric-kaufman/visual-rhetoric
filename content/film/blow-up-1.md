@@ -9,23 +9,23 @@ One element of slowness is going to be **shot length**—or "[average shot lengt
 
 Another element of filmic slowness is the use of multiple **[establishing shots](http://classes.yale.edu/film-analysis/htmfiles/editing.htm#51530)**, which in aggregate have the same effect on pacing as **[aspect-to-aspect panel transitions](http://acephalous.typepad.com/.a/6a00d8341c2df453ef013487c57069970c-500wi)** in comics; that is, by presenting multiple perspectives on the same very large tableau, the audience can't simply assume that the establishing shot is establishing a location, and must perforce start to think that the sequence is attempting to define a mood.  In *Blowup*, these shots are tied, albeit loosely at first, to the plot.  So we have this building:
 
-![6a00d8341c2df453ef0147e14fd06e970b](images/film/blow-up-1/6a00d8341c2df453ef0147e14fd06e970b.jpg)\ 
+![6a00d8341c2df453ef0147e14fd06e970b](../../images/film/blow-up-1/6a00d8341c2df453ef0147e14fd06e970b.jpg)\ 
 
 Which is about to be invaded by mimes:
 
-![6a00d8341c2df453ef0147e14fd1d7970b](images/film/blow-up-1/6a00d8341c2df453ef0147e14fd1d7970b.jpg)\ 
+![6a00d8341c2df453ef0147e14fd1d7970b](../../images/film/blow-up-1/6a00d8341c2df453ef0147e14fd1d7970b.jpg)\ 
 
 The mimes tool around the plaza, then exit their vehicle and run around like mad:
 
-![6a00d8341c2df453ef0148c75966e9970c](images/film/blow-up-1/6a00d8341c2df453ef0148c75966e9970c.jpg)\ 
+![6a00d8341c2df453ef0148c75966e9970c](../../images/film/blow-up-1/6a00d8341c2df453ef0148c75966e9970c.jpg)\ 
 
 In short, the establishing shot, which is meant to show "the spatial relations among the important figures, objects, and setting in a scene," is instead invaded for a moment and then exited.  It establishes, then, not the scene but the ambivalent *attitude* of the characters to the "important figures, objects, and setting in [the] scene."  These mimes are free agents who can't be contained by the frame.  The same, however, cannot be said of the people in the next establishing shot:
 
-![6a00d8341c2df453ef0148c7596c07970c](images/film/blow-up-1/6a00d8341c2df453ef0148c7596c07970c.jpg)\ 
+![6a00d8341c2df453ef0148c7596c07970c](../../images/film/blow-up-1/6a00d8341c2df453ef0148c7596c07970c.jpg)\ 
 
 Ignore the presence of Thomas for moment and consider the scale of this **[extreme long shot](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#48035)**: the people in it are visually dominated by the factory behind them, by which I mean they only occupy the bottom half of the frame and are fenced in and are walking in a strangely staged manner.  They are, in short, *contained*. Compare that to the earlier shot of the mimes gone wild:
 
-![6a00d8341c2df453ef0147e14fdc55970b](images/film/blow-up-1/6a00d8341c2df453ef0147e14fdc55970b.jpg)\ 
+![6a00d8341c2df453ef0147e14fdc55970b](../../images/film/blow-up-1/6a00d8341c2df453ef0147e14fdc55970b.jpg)\ 
 
 Antonioni shoots the herd of mimes in a **[medium closeup](http://classes.yale.edu/film-analysis/htmfiles/cinematography.htm#48047)**, and even though the faces of the factory workers are as clearly articulated as those in this shot, the lack of a dominating background provides the impression that these mimes are more uncontained than the men for whom Monday signals a welcome to the working week.
 

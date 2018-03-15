@@ -10,7 +10,7 @@ But what’s interesting here is not the politics of a single reviewer so much a
 
 The film begins with a dehumanizing head-count:
 
-![517674](images/film/snowpiercer/517674.jpg)\ 
+![517674](../../images/film/snowpiercer/517674.jpg)\ 
 
 Calling this shot claustrophobic would be an understatement, but it is important to understand how its features interact to produce that feeling of claustrophobia. In this case, it’s a combination of four main factors: The first would simply be the darkness—there is a reason people talk about darkness “closing in” on them—but the more significant factors result from the shot’s awful symmetry.
 
@@ -20,29 +20,29 @@ In other words, Joon-ho creates an impression of impossible compression, of an i
 
 Moments later, Joon-ho cuts to a private, family-dinner moment between Tanya (Octavia Spencer), and her son, as well as the two characters the film quickly set up as the leaders of its class war, Curtis (Chris Evans) and Edgar (Jamie Bell).
 
-![517675](images/film/snowpiercer/517675.jpg)\ 
+![517675](../../images/film/snowpiercer/517675.jpg)\ 
 
 The medium shot is tight, but the constrained feeling comes more from the fact that the scene effectively has two audiences: the one in the film watching Tanya upbraid her son, and the one behind Curtis and Edgar watching them watch her.
 
 Filling the foreground with the backs of their heads creates the impression that our access to this scene is mediated, and placing the camera immediately behind Bell’s head frame-left reminds the audience of the decreasing distance between heads in the opening the shot. If the characters in the first frame above could see those cyan lines I drew all over it, in the second shot the audience would see something like this:
 
-![517676](images/film/snowpiercer/517676.jpg)\ 
+![517676](../../images/film/snowpiercer/517676.jpg)\ 
 
 The action is directly in front of the audience, yet still obstructed, a situation that shares more with the experience of a crowded concert than a night at the movies. When her son makes a quick exit, Tanya, Curtis, and Edgar go searching for him. Typically, when a child runs away on a screen, the eyes of the adults tracking him not only dart around the frame, they focus on areas outside of it. One way to impress upon the readers how limited a space this would be, then, is to have a group of people actively searching for a child by looking at almost the exact same place:
 
-![517677](images/film/snowpiercer/517677.jpg)\ 
+![517677](../../images/film/snowpiercer/517677.jpg)\ 
 
 At this moment, Edgar has already spotted Tanya’s son, but Curtis and Tanya haven’t, even though they are all seemingly looking *at the exact same place*. Also note how shallow the focus in this shot is—as the trio moves toward the camera, each person will briefly walk into focus, then hand it off to the character trailing them, as Joon-ho limits how much visual information the audience can acquire at any given point in time. The intent behind the shallowness seems less to emphasize the character in focus than to remind the audience of how little there is to see behind him or her. After all, how much more information would the audience have about this frame if the depth of field had been large enough to capture every element in the frame in focus?
 
 This is not to say that Joon-ho never employs deep focus, as when he shoots Curtis and Edgar fomenting rebellion in their bunks:
 
-![517678](images/film/snowpiercer/517678.jpg)\ 
+![517678](../../images/film/snowpiercer/517678.jpg)\ 
 
 With the exception of a bar in the upper right, everything from the side of Edgar’s face to the detritus beneath Curtis’ bunk is in focus, which should make the world seem more open—there is more visual information to process, if nothing else—but the high level and oblique angle of framing that Joon-ho uses here combine to create an incredibly narrow perspective. Moreover, the implicit perspective of the camera makes it appear as if the audience is sharing the characters’ tight quarters, constricting its view of the world to the one shared by the characters.
 
 After 42 minutes, the cumulative effect of shots using these techniques has created a palpable sense of claustrophobia, so much so Joon-ho predicates one of the film’s most significant moments upon having done so successfully:
 
-![517679](images/film/snowpiercer/517679.jpg)\ 
+![517679](../../images/film/snowpiercer/517679.jpg)\ 
 
 Note how the above combines two of the claustrophobic shots described above—the infinite rows of humans in a seemingly finite space, and the impression that the audience can’t see past the characters to see the film—in such a way that it should feel more open, given the frame is flooded with white, information-imparting light. Now that the darkness has lifted, the world should feel more expansive. But because of the manner in which Joon-ho established these techniques earlier in the film and the meaning that accrued to them then, this shot feels *more* claustrophobic, not *less*.
 

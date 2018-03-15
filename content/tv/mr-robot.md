@@ -10,29 +10,29 @@ One way to read Elliott’s&nbsp;inability to free himself from his hallucinatio
 
 The hackers and other Evil Corp. opponents always believed the sky was falling. But after it fell, they can’t escape the feeling that it’s still in the process of falling. Put differently, the sky is *always* falling on “Mr. Robot,” at least inasmuch as the top half of almost every shot is *always* threatening to crush the insignificant lives occupying the bottom. Consider, for example, a typical medium shot:
 
-![mr011](images/tv/mr-robot/mr011.jpg)\ 
+![mr011](../../images/tv/mr-robot/mr011.jpg)\ 
 
 A conventional medium shot would place their heads far higher in frame, if only because humans tend to prefer human proportions. Of course, the people featured in that shot are the proverbial “little” ones, those whose necks are crushed by the heels of oligarchs, so perhaps it makes sense to emphasize their insignificance by visually diminishing them in this manner. Perhaps in the halls of power, humans are allowed to occupy more of the frame:
 
-![mr021](images/tv/mr-robot/mr021.jpg)\ 
+![mr021](../../images/tv/mr-robot/mr021.jpg)\ 
 
 They are not. In fact, if anything they are shot in such a way that makes them appear even tinier than those whose lives they once ruled. And that difference isn’t simply an artifact of the first shot above being a medium and the one immediately above being a long. When director Sam Esmail switches to a medium in that same meeting, this is how he shoots it:
 
-![mr031](images/tv/mr-robot/mr031.jpg)\ 
+![mr031](../../images/tv/mr-robot/mr031.jpg)\ 
 
 The cumulative effect of this framing is a pervasive feeling of helplessness — after all, how do people stop being crushed by the world when the world refuses to stop crushing them? That’s not a question Elliot can answer:
 
-![mr071](images/tv/mr-robot/mr071.jpg)\ 
+![mr071](../../images/tv/mr-robot/mr071.jpg)\ 
 
 It doesn’t matter how many self-help mantras Angela Moss (Portia Doubleday) repeats:
 
-![mr051](images/tv/mr-robot/mr051.jpg)\ 
+![mr051](../../images/tv/mr-robot/mr051.jpg)\ 
 
 Or how well-connected Ray (Craig Robinson) really is:
 
-![mr061](images/tv/mr-robot/mr061.jpg)\ 
+![mr061](../../images/tv/mr-robot/mr061.jpg)\ 
 
 Everyone on “Mr. Robot” — as well as every viewer who feels drawn to the oppression it engenders — is just about as helpless as this baby:
 
-![mr041](images/tv/mr-robot/mr041.jpg)\ 
+![mr041](../../images/tv/mr-robot/mr041.jpg)\ 
 

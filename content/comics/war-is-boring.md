@@ -6,15 +6,15 @@ David Axe's [*War Is Boring*](http://www.amazon.com/exec/obidos/ASIN/0451230116/
 
 The wars to which he flashes back in conversation are not about him in the way that Salinas is about Steinbeck, Las Vegas about Thompson, or Pirsig about Pirsig. They are not an extension of himself because *War Is Boring* partakes of no Emersonian "upbuilding of a man" and Axe refuses to serve as a delegate for our moral improvement. For example, later in the novel, after being mistaken for former U.N. weapons inspector Hans Blix, he informs Djimdim that:
 
-![axe01](images/comics/war-is-boring/axe01.jpg)\ 
+![axe01](../../images/comics/war-is-boring/axe01.jpg)\ 
 
 As Djimdim is presented as an observant listener, he must have recognized that Axe had fed him a similar line earlier:
 
-![axe02](images/comics/war-is-boring/axe02.jpg)\ 
+![axe02](../../images/comics/war-is-boring/axe02.jpg)\ 
 
 Note that the difference is not in growth, but simple addition: Axe  doesn't correct him, he merely adds the names of his actual employers,  committing what could be called a sin of omission by addition. He presents himself here not as a model to be emulated, but a person for whom old, successful habits die hard—that is, as a sympathetic example of our flawed species.\* But *War Is Boring* is always as much about the narrative as it is the narrator, even when the stakes of the conflicts narrated are not altogether clear. While that might seem a criticism of the book, I don't mean it as such. The view from the ground will always be more chaotic than its aerial equivalent, as Axe himself  argues via juxtapositions like those that open his chapter on East Timor:
 
-![axe03](images/comics/war-is-boring/axe03.jpg)\ 
+![axe03](../../images/comics/war-is-boring/axe03.jpg)\ 
 
 The helicopter is as isolated from the events below as it is in Axe's  camera, but for the moment, so is Axe. That first panel fails to inform  us whether the narrative is in its Chadian frame or East Timor, and the  second one only provides visual clues as to when and where we are.  Moreover, the perspective Axe and, through him, the reader has on that  helicopter is [a familiar and unpleasant one](http://www.library.cornell.edu/olinuris/ref/helicopter.jpg): the isolation of the helicopter somehow representing both imperialist ambitions *and* the sinking feeling in a soldier's gut as his last connection to a life  outside of war pulls into the sky. In fact, this framing of the  conflict occurs throughout the chapter on East Timor, neatly paralleling  the fact that Axe feels like he learned little in the two weeks he spent there.
 

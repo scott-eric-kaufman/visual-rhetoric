@@ -6,7 +6,6 @@ This work is the more-or-less comprehensive amalgamation of the internet-publish
 
 #### Technical Information
 
- * Generated with [Pandoc](http://johnmacfarlane.net/pandoc/) v1.17.2
  * All content authored by **Scott Eric Kaufman** unless noted otherwise.
 
 #### Note from the Editor

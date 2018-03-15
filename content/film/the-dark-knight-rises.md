@@ -4,15 +4,15 @@
 
 At least not in the way that conservatives think it is. Christian Toto [contends](http://www.breitbart.com/Big-Hollywood/2012/07/27/forbes-denial-dark-knight-occupy) that "everyone not blinded by liberal ideology" can see that *The Dark Knight Rises* is critical of the Occupy Wall Street movement, and that the film is therefore "downright conservative." There are two significant problems with his claim: logically, it is not necessarily true that any cultural artifact that's critical of the Occupy movement is conservative; and visually, the optics of Bane and his followers don't correspond to those of the Occupy movement. The logical problem is easy enough to dismiss: I can criticize the rhetoric and tactics of the Occupy movement without being instantly transformed into a conservative. The visual problem isn't that much more complicated, because this is what Bane and his followers look like:
 
-![6a00d8341c2df453ef017616d48ef6970c](images/film/the-dark-knight-rises/6a00d8341c2df453ef017616d48ef6970c.jpg)\ 
+![6a00d8341c2df453ef017616d48ef6970c](../../images/film/the-dark-knight-rises/6a00d8341c2df453ef017616d48ef6970c.jpg)\ 
 
 I would like to ask Toto and John Nolte and every other conservative whose claim that the object of the film's critique is the Occupy movement is predicated on obviousness whether the heavily armed fatigue-garbed lot pictured above look more like this:
 
-![6a00d8341c2df453ef017616d49eb4970c](images/film/the-dark-knight-rises/6a00d8341c2df453ef017616d49eb4970c.jpg)\ 
+![6a00d8341c2df453ef017616d49eb4970c](../../images/film/the-dark-knight-rises/6a00d8341c2df453ef017616d49eb4970c.jpg)\ 
 
 Or this:
 
-![6a00d8341c2df453ef016768dfe64a970b](images/film/the-dark-knight-rises/6a00d8341c2df453ef016768dfe64a970b.jpg)\ 
+![6a00d8341c2df453ef016768dfe64a970b](../../images/film/the-dark-knight-rises/6a00d8341c2df453ef016768dfe64a970b.jpg)\ 
 
 I would like to ask them to examine these images closely and count the number of raised weapons in the first and compare that to the number being raised in the second and the third. Then they can tally up the number of bandoliers and re-purposed fatigues and wrapped heads there are in each of these images and compare those too. If they possess a shred of intellectual honesty they'll have no choice but concede that Bane and his cohorts more closely resemble Afghan mujahideen from the 1980s than Occupy protestors from last year. Toto claims that only those "blinded" by ideology could fail to recognize the similarity between the people in the first and second images. But it seems to me that only someone who is *actually blind* could be convinced that there's a greater correspondence between the first and second than the first and third.
 

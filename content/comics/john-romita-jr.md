@@ -6,7 +6,7 @@ Because it’s my birthday and I have the God-given right to behave insufferably
 
 My complaint is with the analysis — or more accurately, the lack thereof. For example, Cronin includes this sequence of panels from *Amazing Spider-Man* #230:
 
-![jrjrartist6](images/comics/john-romita-jr/jrjrartist6.jpg)\ 
+![jrjrartist6](../../images/comics/john-romita-jr/jrjrartist6.jpg)\ 
 
 And says this about them: “Amazing. His character work is different now, but his page designs are the same and they’re still excellent.”
 

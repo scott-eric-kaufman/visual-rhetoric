@@ -6,15 +6,15 @@ Thanks to my new job, I not only have weekends off -- I also have money! And one
 
 Point being, I'm now having many thoughts about comics and I thought "Why SEK, you have a blog, why don't you write about them?" So I think I'll make this a regular Sunday feature, starting today with a few "panels" from *Ms. Marvel*:
 
-![msmarvel-wyatt](images/comics/directed-reading/msmarvel-wyatt.jpg)\ 
+![msmarvel-wyatt](../../images/comics/directed-reading/msmarvel-wyatt.jpg)\ 
 
 Jake Wyatt's been rightfully acclaimed for his work on this book, but this page in particular is fascinating. At first I felt it was partly enabled by the new technology of comic book-reading, inasmuch as it's "directed" by an algorithm that moves you from area-to-area within a panel. For example, on the iPad that page would look something like this:
 
-![mm01](images/comics/directed-reading/mm01.jpg)\ 
+![mm01](../../images/comics/directed-reading/mm01.jpg)\ 
 
-![mm02](images/comics/directed-reading/mm02.jpg)\ 
+![mm02](../../images/comics/directed-reading/mm02.jpg)\ 
 
-![mm03](images/comics/directed-reading/mm03.jpg)\ 
+![mm03](../../images/comics/directed-reading/mm03.jpg)\ 
 
 Like I said -- a "directed" reading. But it quickly occurred to me that I was wrong, at least partly, because the page really is playing with traditional comic book and basic reading conventions. There's a real tension between the text and the image in this, beginning with the fact that the first "panel" -- and I'm using scare quotes for the obvious reason that there are no traditional panels on this page -- is in the lower left-hand corner of the page. That's not where the eyes of English readers begin, so the first difficulty in understanding this page is simply one of figuring out where to start.
 

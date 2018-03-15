@@ -8,7 +8,7 @@ In *Making Comics*, Scott McCloud argues that there are six means of transitioni
 
 The issue opens with Dr. Manhattan brooding on the pink Martian soil:
 
-![6a00d8341c2df453ef0111685be41a970c](images/comics/watchmen-1/6a00d8341c2df453ef0111685be41a970c.jpg)\ 
+![6a00d8341c2df453ef0111685be41a970c](../../images/comics/watchmen-1/6a00d8341c2df453ef0111685be41a970c.jpg)\ 
 
 In the first panel, Moore establishes the present moment via the present tense: "The photograph *is* in my hand."  The word-picture combination here is **duo-specific**; that is, the words and the pictures deliver roughly the same message, such that the elimination of either wouldn't change the meaning of the panel. Note how specific Moore and Gibbons are here: the nouns in the sentence correspond precisely to the images in the panels because they went with a **close-up** of his hands holding the picture.  
 
@@ -25,25 +25,25 @@ McCloud defines scene-to-scene as "transitions across significant distances of t
 
 The movement from the third panel to the fourth occurs via a traditional scene-to-scene transition:
 
-![6a00d8341c2df453ef0111685c0e7c970c](images/comics/watchmen-1/6a00d8341c2df453ef0111685c0e7c970c.jpg)\ 
+![6a00d8341c2df453ef0111685c0e7c970c](../../images/comics/watchmen-1/6a00d8341c2df453ef0111685c0e7c970c.jpg)\ 
 
 Moore flashes back twenty-seven hours from the established narrative present to Gila Flats.  Gibbons frames the fourth panel such that our eyes are level with Manhattan's ass.  [This](http://acephalous.typepad.com/files/w05.jpg) is one possible explanation for why we're positioned thus, but a more likely one is that Gibbons does not want the reader to inhabit Dr. Manhattan's perspective.  With one very notable exception—the fifth panel—we are never allowed to see through his eyes.  Notice also how Gibbons frames the shot so that, for readers, it centers on nothing:
 
-![6a00d8341c2df453ef01053721798b970b](images/comics/watchmen-1/6a00d8341c2df453ef01053721798b970b.jpg)\ 
+![6a00d8341c2df453ef01053721798b970b](../../images/comics/watchmen-1/6a00d8341c2df453ef01053721798b970b.jpg)\ 
 
 Because readers instinctively place importance on the center of a panel, the composition of this panel suggests nothing of importance is on the wall. Gibbons draws our attention to the destroyed part of the display.  How different is our perspective from Manhattan's?  The next panel—the only one in which we share his perspective—indicates his line of sight.  It looks something like this:
 
-![6a00d8341c2df453ef0111685c2964970c](images/comics/watchmen-1/6a00d8341c2df453ef0111685c2964970c.jpg)\ 
+![6a00d8341c2df453ef0111685c2964970c](../../images/comics/watchmen-1/6a00d8341c2df453ef0111685c2964970c.jpg)\ 
 
 That's a rough approximation, but it allows us to see extrapolate what Gibbons would have needed to include in the shot to preserve Manhattan's line of sight while centering the panel on the photograph:
 
-![6a00d8341c2df453ef0111685c2dfb970c](images/comics/watchmen-1/6a00d8341c2df453ef0111685c2dfb970c.jpg)\ 
+![6a00d8341c2df453ef0111685c2dfb970c](../../images/comics/watchmen-1/6a00d8341c2df453ef0111685c2dfb970c.jpg)\ 
 
 Yet another rough approximation, but now we can speak more directly about the decisions Gibbons made in framing the shot as he did.  The slightly off-kilter approach of the actual panel forces the reader to search for what Manhattan sees; whereas the centered approach of our hypothetical panel directs the reader's attention on the photograph.  We could argue that the actual panel is superior because it duplicates the action it depicts; that is, *just as Manhattan searches for meaning in his past, the panel compels the reader to search for meaning within the frame*.  Like Manhattan, we know what we're looking for—we just don't know where it is (even though it's been there all along).  
 
 And it's been there all along because page is like a panel: the reader instinctively grants importance to the people or objects occupying its center.  Look what occupies the center of our page:
 
-![6a00d8341c2df453ef0111685c36e6970c](images/comics/watchmen-1/6a00d8341c2df453ef0111685c36e6970c.jpg)\ 
+![6a00d8341c2df453ef0111685c36e6970c](../../images/comics/watchmen-1/6a00d8341c2df453ef0111685c36e6970c.jpg)\ 
 
 The issue focuses on how nostalgia alone (*[ahem](http://acephalous.typepad.com/files/watchmen0901.jpg)*) tethers Manhattan to the human race, so it makes narrative sense that the only time we see through Manhattan's eyes is when he looks at the photograph.  Note how expertly Moore and Gibbons confuse us here.  The transition from the fourth panel to the fifth seems to be a movement from **subject-to-subject**, that is, a transition whereby the panels shift from one object or person within a given scene to another. (Think conversations on television: shot of Person A, then Person B; back to Person A, then back to Person B &amp;c.)  Because he can unstick himself in time, we can't tell whether we're in Gila Flat twenty-seven hours ago and Manhattan has just pulled the photograph from the wall or on Mars in the narrative present.  In the former case, we have a subject-to-subject transition from the fourth to the fifth and a scene-to-scene from the fifth to the sixth; in the latter case the reverse would be true, *i.e.* we have a scene-to-scene from the fourth to the fifth and a subject-to-subject from the fifth to the sixth.  
 

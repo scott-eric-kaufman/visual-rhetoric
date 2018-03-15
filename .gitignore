@@ -2,5 +2,6 @@
 *.pdf
 *.html
 .gdrive
+_book
 scripts/node_modules
 VisualRhetoric.*

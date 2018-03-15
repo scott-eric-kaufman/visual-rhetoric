@@ -2,6 +2,7 @@ all: clean epub pdf
 
 CONTENT := \
 		content/000-meta.yaml \
+		content/0*.md \
 		content/film/*.md \
 		content/tv/*.md \
 		content/comics/*.md \
